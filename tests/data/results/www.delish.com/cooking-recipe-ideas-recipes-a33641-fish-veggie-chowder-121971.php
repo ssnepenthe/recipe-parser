@@ -40,4 +40,7 @@ return [
     'totalTime' => 'PT40M',
     'url' => 'https://www.womansday.com/food-recipes/food-drinks/recipes/a10509/fish-veggie-chowder-121971/',
     'yield' => '4',
+    'nutrition' => [
+        'calories' => '394 calories',
+    ],
 ];

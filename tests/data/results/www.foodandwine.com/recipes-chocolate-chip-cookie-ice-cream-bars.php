@@ -31,4 +31,5 @@ return [
     'totalTime' => 'PT4H',
     'url' => 'http://www.foodandwine.com/recipes/chocolate-chip-cookie-ice-cream-bars',
     'yield' => 'Serves : 16',
+    'nutrition' => null,
 ];

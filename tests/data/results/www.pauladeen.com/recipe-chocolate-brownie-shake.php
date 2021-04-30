@@ -37,4 +37,5 @@ return [
     'totalTime' => 'PT4M',
     'url' => 'https://www.pauladeen.com/recipe/chocolate-brownie-shake/',
     'yield' => '4',
+    'nutrition' => null,
 ];

@@ -1,25 +1,22 @@
 <?php
 
 return [
-    'author' => null,
-    'categories' => null,
+    'author' => 'By Betty Crocker Kitchens',
+    'categories' => ['Dessert'],
     'cookingMethod' => null,
     'cookTime' => null,
     'cuisines' => null,
     'description' => 'Banana, peanut butter and marshmallow make a terrific sandwich, and an even better poke cake!',
     'image' => 'https://images-gmi-pmc.edge-generalmills.com/553c4645-7aed-423e-af63-906479207968.jpg',
     'ingredients' => [
-        'Cake',
-        '1 box Betty Crocker™ SuperMoist™ yellow cake mix',
+        '1 box Betty Crocker™ Super Moist™ yellow cake mix',
         '1 cup mashed very ripe bananas (2 medium)',
         '1/2 cup water',
         '1/3 cup vegetable oil',
         '4 eggs',
-        'Filling',
         '1 box (6-serving size) vanilla instant pudding and pie filling mix',
         '3 cups cold milk',
         '1/3 cup creamy peanut butter',
-        'Topping',
         '1 jar (7 oz) marshmallow creme',
         '1 cup butter, softened',
         '2 cups powdered sugar',
@@ -44,4 +41,5 @@ return [
     'totalTime' => 'PT2H10M',
     'url' => 'https://www.bettycrocker.com/recipes/banana-peanut-butter-and-marshmallow-poke-cake/5e2b9f28-7d7e-4ce2-af66-6a958d47046c',
     'yield' => '12',
+    'nutrition' => null
 ];

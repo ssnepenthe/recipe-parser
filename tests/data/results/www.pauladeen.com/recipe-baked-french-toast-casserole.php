@@ -46,4 +46,5 @@ return [
     'totalTime' => 'PT20M',
     'url' => 'https://www.pauladeen.com/recipe/baked-french-toast-casserole/',
     'yield' => '6-8',
+    'nutrition' => null,
 ];

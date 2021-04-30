@@ -38,4 +38,5 @@ return [
     'totalTime' => 'PT30M',
     'url' => 'https://www.justataste.com/spanish-tortilla-tomato-salad-recipe/',
     'yield' => '6 servings',
+    'nutrition' => null,
 ];

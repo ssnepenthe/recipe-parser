@@ -43,4 +43,5 @@ return [
     'totalTime' => null,
     'url' => 'https://www.delish.com/cooking/recipe-ideas/recipes/a53178/huevos-rancheros-sandwich-mexican-coffee-recipe/',
     'yield' => '1',
+    'nutrition' => null,
 ];

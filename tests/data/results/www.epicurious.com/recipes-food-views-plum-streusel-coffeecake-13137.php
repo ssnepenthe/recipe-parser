@@ -56,4 +56,13 @@ return [
     'totalTime' => null,
     'url' => 'https://www.epicurious.com/recipes/food/views/plum-streusel-coffeecake-13137',
     'yield' => null,
+    'nutrition' => [
+        'calories' => '280',
+        'fat' => '13 g(20%)',
+        'fiber' => '1 g(4%)',
+        'protein' => '3 g(7%)',
+        'saturatedFat' => '8 g(38%)',
+        'carbohydrate' => '38 g(13%)',
+        'sodium' => '123 mg(5%)',
+    ],
 ];

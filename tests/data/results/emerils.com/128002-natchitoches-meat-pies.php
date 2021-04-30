@@ -52,4 +52,5 @@ return [
     'totalTime' => 'PT45M',
     'url' => 'http://emerils.com/128002/natchitoches-meat-pies',
     'yield' => 'Yield: 24 meat pies',
+    'nutrition' => null,
 ];

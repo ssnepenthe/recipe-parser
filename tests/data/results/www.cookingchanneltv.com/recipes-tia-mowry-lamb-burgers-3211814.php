@@ -46,4 +46,5 @@ return [
     'totalTime' => 'PT1H5M',
     'url' => 'https://www.cookingchanneltv.com/recipes/tia-mowry/lamb-burgers-3211814',
     'yield' => '4 servings',
+    'nutrition' => null,
 ];

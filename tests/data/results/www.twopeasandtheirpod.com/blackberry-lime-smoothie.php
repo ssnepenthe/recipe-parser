@@ -39,4 +39,5 @@ return [
     'totalTime' => 'PT5M',
     'url' => 'https://www.twopeasandtheirpod.com/blackberry-lime-smoothie/',
     'yield' => 'Serves 2',
+    'nutrition' => null,
 ];

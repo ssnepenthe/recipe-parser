@@ -50,4 +50,5 @@ return [
     'totalTime' => 'PT20M',
     'url' => 'https://www.womansday.com/food-recipes/food-drinks/recipes/a58512/roasted-blackened-salmon-snap-pea-salad-recipe/',
     'yield' => '4 servings',
+    'nutrition' => null,
 ];

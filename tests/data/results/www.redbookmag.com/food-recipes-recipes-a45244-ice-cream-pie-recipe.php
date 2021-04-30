@@ -36,4 +36,5 @@ return [
     'totalTime' => 'PT35M',
     'url' => 'https://www.redbookmag.com/food-recipes/recipes/a45244/ice-cream-pie-recipe/',
     'yield' => '1',
+    'nutrition' => null,
 ];

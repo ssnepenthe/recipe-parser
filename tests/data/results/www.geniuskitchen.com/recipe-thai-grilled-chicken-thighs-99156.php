@@ -34,4 +34,14 @@ return [
     'totalTime' => 'PT25M',
     'url' => 'http://www.geniuskitchen.com/recipe/thai-grilled-chicken-thighs-99156',
     'yield' => '4 serving(s)',
+    'nutrition' => [
+        'calories' => '330.2',
+        'fat' => '13.5',
+        'fiber' => '0.6',
+        'protein' => '42.4',
+        'sugar' => '5.5',
+        'saturatedFat' => '2.9',
+        'carbohydrate' => '7.9',
+        'sodium' => '1108.9',
+    ],
 ];

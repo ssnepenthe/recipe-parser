@@ -40,4 +40,7 @@ return [
     'totalTime' => 'PT15M',
     'url' => 'https://www.womansday.com/food-recipes/food-drinks/recipes/a12319/creamy-blue-cheese-slaw-recipe-wdy0114/',
     'yield' => '4',
+    'nutrition' => [
+        'calories' => '165 calories',
+    ],
 ];

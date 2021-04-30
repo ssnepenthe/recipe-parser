@@ -35,4 +35,14 @@ return [
     'totalTime' => 'PT55M',
     'url' => 'https://www.allrecipes.com/recipe/8652/garlic-chicken/',
     'yield' => '4',
+    'nutrition' => [
+        'calories' => '300.4 calories',
+        'fat' => '16.8 g',
+        'fiber' => '0.3 g',
+        'protein' => '30.3 g',
+        'sugar' => '0.3 g',
+        'saturatedFat' => '3.1 g',
+        'carbohydrate' => '5.7 g',
+        'sodium' => '261.2 mg',
+    ],
 ];

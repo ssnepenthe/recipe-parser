@@ -41,4 +41,5 @@ return [
     'totalTime' => 'PT45M',
     'url' => 'http://emerils.com/129308/triple-coconut-cake-seven-minute-coconut-frosting',
     'yield' => 'Yield: 1 (9-inch) 2-layer cake, 8 to 10 servings',
+    'nutrition' => null,
 ];

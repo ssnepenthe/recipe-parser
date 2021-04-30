@@ -25,7 +25,7 @@ return [
     ],
     'instructions' => [
         'Place shrimp in a glass bowl and cover with lime juice to marinate (or \'cook\') for about 10 minutes, or until they turn pink and opaque. Meanwhile, place the plum tomatoes, onion and jalapeno (and avocados and celery, if using) in a large, non-reactive (stainless steel, glass or plastic) bowl.',
-        'Remove shrimp from lime juice, reserving juice. Dice shrimp and add to the bowl of vegetables. Pour in the remaining lime juice marinade. Add cilantro and salt and pepper to taste. Toss gently to mix.'
+        'Remove shrimp from lime juice, reserving juice. Dice shrimp and add to the bowl of vegetables. Pour in the remaining lime juice marinade. Add cilantro and salt and pepper to taste. Toss gently to mix.',
     ],
     'name' => 'Jose\'s Shrimp Ceviche',
     'notes' => null,
@@ -34,4 +34,14 @@ return [
     'totalTime' => 'PT55M',
     'url' => 'https://www.allrecipes.com/recipe/139917/joses-shrimp-ceviche/',
     'yield' => '20',
+    'nutrition' => [
+        'calories' => '73 calories',
+        'fat' => '3.5 g',
+        'fiber' => '2.3 g',
+        'protein' => '5.6 g',
+        'sugar' => '2 g',
+        'saturatedFat' => '0.5 g',
+        'carbohydrate' => '5.8 g',
+        'sodium' => '61 mg',
+    ],
 ];

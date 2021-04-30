@@ -54,4 +54,14 @@ return [
     'totalTime' => 'PT3H30M',
     'url' => 'http://www.eatingwell.com/recipe/249261/glazed-chocolate-pumpkin-bundt-cake/',
     'yield' => '1',
+    'nutrition' => [
+        'calories' => '236 calories;',
+        'fat' => '5',
+        'fiber' => '3',
+        'protein' => '4',
+        'sugar' => '33',
+        'saturatedFat' => '1',
+        'carbohydrate' => '47',
+        'sodium' => '237',
+    ],
 ];

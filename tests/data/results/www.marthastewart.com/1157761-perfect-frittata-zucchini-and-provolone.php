@@ -33,4 +33,5 @@ return [
     'totalTime' => 'PT35M',
     'url' => 'https://www.marthastewart.com/1157761/perfect-frittata-zucchini-and-provolone',
     'yield' => 'Serves 6 to 8',
+    'nutrition' => null,
 ];

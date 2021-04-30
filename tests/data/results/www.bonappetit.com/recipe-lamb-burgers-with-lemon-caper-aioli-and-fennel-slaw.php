@@ -63,4 +63,5 @@ return [
     'totalTime' => null,
     'url' => 'https://www.bonappetit.com/recipe/lamb-burgers-with-lemon-caper-aioli-and-fennel-slaw',
     'yield' => 'Makes 4',
+    'nutrition' => null,
 ];

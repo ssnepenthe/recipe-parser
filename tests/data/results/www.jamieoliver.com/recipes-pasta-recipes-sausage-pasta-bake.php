@@ -44,4 +44,14 @@ return [
     'url' => 'https://www.jamieoliver.com/recipes/pasta-recipes/sausage-pasta-bake/',
     'yield' => '4',
     'nameSub' => 'Topped with Cheddar & oregano breadcrumbs',
+    'nutrition' => [
+        'calories' => '567 calories',
+        'fat' => '20 g fat',
+        'fiber' => '0 g fibre',
+        'protein' => '28.6 g protein',
+        'sugar' => '10.6 g sugar',
+        'saturatedFat' => '6.7 g saturated fat',
+        'carbohydrate' => '73 g carbohydrate',
+        'sodium' => '0 g salt',
+    ],
 ];

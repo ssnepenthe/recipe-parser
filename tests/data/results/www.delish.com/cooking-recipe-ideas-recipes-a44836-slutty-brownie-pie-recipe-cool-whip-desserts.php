@@ -36,4 +36,5 @@ return [
     'totalTime' => 'PT4H25M',
     'url' => 'https://www.delish.com/cooking/recipe-ideas/recipes/a44836/slutty-brownie-pie-recipe-cool-whip-desserts/',
     'yield' => '8',
+    'nutrition' => null,
 ];

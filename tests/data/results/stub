@@ -27,4 +27,11 @@ return [
     'totalTime' => '',
     'url' => '',
     'yield' => '',
+    'nutrition' => [
+        'calories' => '',
+        'fat' => '',
+        'fiber' => '',
+        'protein' => '',
+        'sugar' => ''
+    ]
 ];

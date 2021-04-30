@@ -34,4 +34,5 @@ return [
     'totalTime' => 'PT4H55M',
     'url' => 'https://www.bettycrocker.com/recipes/do-ahead-breakfast-bake/346b7c54-126f-46d7-b90c-7d3acf389d77',
     'yield' => '12',
+    'nutrition' => null,
 ];

@@ -42,4 +42,5 @@ return [
     'totalTime' => null,
     'url' => 'http://spryliving.com/recipes/blt-paleo-chicken-recipe/',
     'yield' => 'Yield: 4 servings',
+    'nutrition' => null,
 ];

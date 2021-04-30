@@ -45,4 +45,5 @@ return [
     'totalTime' => null,
     'url' => 'http://spryliving.com/recipes/baked-caprese-chicken/',
     'yield' => 'Yield: 6 servings',
+    'nutrition' => null,
 ];

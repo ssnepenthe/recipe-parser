@@ -30,4 +30,14 @@ return [
     'totalTime' => 'PT5M',
     'url' => 'http://www.geniuskitchen.com/recipe/mexican-spice-blend-334953',
     'yield' => '1/3 cup, 4 serving(s)',
+    'nutrition' => [
+        'calories' => '21.2',
+        'fat' => '0.4',
+        'fiber' => '0.8',
+        'protein' => '0.4',
+        'sugar' => '1.4',
+        'saturatedFat' => '0.1',
+        'carbohydrate' => '4.5',
+        'sodium' => '665.2',
+    ],
 ];

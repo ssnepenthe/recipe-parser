@@ -38,4 +38,5 @@ return [
     'totalTime' => null,
     'url' => 'https://www.bonappetit.com/recipe/eggless-lime-custards-with-lychees',
     'yield' => '4 servings',
+    'nutrition' => null,
 ];

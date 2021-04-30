@@ -47,4 +47,7 @@ return [
     'totalTime' => 'PT2H10M',
     'url' => 'https://www.countryliving.com/food-drinks/recipes/a1663/zesty-vegetable-lasagna-3781/',
     'yield' => '15',
+    'nutrition' => [
+        'calories' => '454 calories',
+    ],
 ];

@@ -50,4 +50,14 @@ return [
     'url' => 'https://www.jamieoliver.com/recipes/vegetables-recipes/grilled-cauliflower-with-winter-pesto/',
     'yield' => '4',
     'nameSub' => 'With cannellini beans, chilli flakes & shallots',
+    'nutrition' => [
+        'calories' => '356 calories',
+        'fat' => '12.5 g fat',
+        'fiber' => '15.7 g fibre',
+        'protein' => '19.2 g protein',
+        'sugar' => '3.7 g sugar',
+        'saturatedFat' => '1.9 g saturated fat',
+        'carbohydrate' => '34.7 g carbohydrate',
+        'sodium' => '1 g salt',
+    ],
 ];

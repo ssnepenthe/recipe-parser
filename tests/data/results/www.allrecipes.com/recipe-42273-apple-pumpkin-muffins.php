@@ -37,4 +37,5 @@ return [
     'totalTime' => null,
     'url' => 'https://www.allrecipes.com/recipe/42273/apple-pumpkin-muffins/',
     'yield' => '18',
+    'nutrition' => null,
 ];

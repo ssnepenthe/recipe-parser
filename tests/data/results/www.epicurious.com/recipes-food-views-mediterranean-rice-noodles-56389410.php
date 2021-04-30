@@ -59,4 +59,13 @@ return [
     'totalTime' => null,
     'url' => 'https://www.epicurious.com/recipes/food/views/mediterranean-rice-noodles-56389410',
     'yield' => 'Serves 2',
+    'nutrition' => [
+        'calories' => '1054',
+        'fat' => '20 g(31%)',
+        'fiber' => '9 g(38%)',
+        'protein' => '17 g(34%)',
+        'saturatedFat' => '3 g(15%)',
+        'carbohydrate' => '197 g(66%)',
+        'sodium' => '1138 mg(47%)',
+    ],
 ];

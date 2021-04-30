@@ -27,4 +27,14 @@ return [
     'totalTime' => 'PT50M',
     'url' => 'http://www.cookinglight.com/recipes/grill-steamed-corn-cilantro-chile-flakes',
     'yield' => 'Serves 4 (serving size: 1 ear)',
+    'nutrition' => [
+        'calories' => '151',
+        'fat' => '8.2 g',
+        'fiber' => '2 g',
+        'protein' => '3 g',
+        'sugar' => '7 g',
+        'saturatedFat' => '1.3 g',
+        'carbohydrate' => '20 g',
+        'sodium' => '333 mg',
+    ],
 ];

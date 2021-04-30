@@ -40,4 +40,5 @@ return [
     'totalTime' => null,
     'url' => 'http://thepioneerwoman.com/cooking/cashew-chicken/',
     'yield' => 'Serves 8',
+    'nutrition' => null,
 ];

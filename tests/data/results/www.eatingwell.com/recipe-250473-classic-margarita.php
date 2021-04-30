@@ -33,4 +33,10 @@ return [
     'totalTime' => 'PT10M',
     'url' => 'http://www.eatingwell.com/recipe/250473/classic-margarita/',
     'yield' => '4',
+    'nutrition' => [
+        'calories' => '181 calories;',
+        'sugar' => '9',
+        'carbohydrate' => '12',
+        'sodium' => '101',
+    ],
 ];

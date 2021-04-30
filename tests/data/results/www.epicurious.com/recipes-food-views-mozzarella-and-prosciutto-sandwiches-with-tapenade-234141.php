@@ -53,4 +53,13 @@ return [
     'totalTime' => null,
     'url' => 'https://www.epicurious.com/recipes/food/views/mozzarella-and-prosciutto-sandwiches-with-tapenade-234141',
     'yield' => 'Makes 6 servings',
+    'nutrition' => [
+        'calories' => '395',
+        'fat' => '31 g(48%)',
+        'fiber' => '1 g(5%)',
+        'protein' => '20 g(40%)',
+        'saturatedFat' => '14 g(68%)',
+        'carbohydrate' => '9 g(3%)',
+        'sodium' => '1029 mg(43%)',
+    ],
 ];

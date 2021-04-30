@@ -43,4 +43,7 @@ return [
     'totalTime' => null,
     'url' => 'https://www.bhg.com/recipe/battered-asparagus-ham-hoagies/',
     'yield' => '4 servings',
+    'nutrition' => [
+        'calories' => '565 kcal',
+    ],
 ];

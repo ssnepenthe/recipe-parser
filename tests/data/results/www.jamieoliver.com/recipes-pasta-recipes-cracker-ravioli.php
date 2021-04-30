@@ -60,4 +60,14 @@ return [
     'url' => 'https://www.jamieoliver.com/recipes/pasta-recipes/cracker-ravioli/',
     'yield' => '6 or 12 as a starter',
     'nameSub' => 'Spinach pasta, sweet squash, chestnuts, sage & ricotta',
+    'nutrition' => [
+        'calories' => '917 calories',
+        'fat' => '46.4 g fat',
+        'fiber' => '9 g fibre',
+        'protein' => '27.6 g protein',
+        'sugar' => '17.3 g sugar',
+        'saturatedFat' => '17.9 g saturated fat',
+        'carbohydrate' => '101 g carbohydrate',
+        'sodium' => '0.6 g salt',
+    ],
 ];

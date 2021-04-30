@@ -41,4 +41,5 @@ return [
     'totalTime' => 'PT40M',
     'url' => 'https://www.justataste.com/grilled-flatbread-pizzas-avocado-pesto-recipe/',
     'yield' => '4 servings',
+    'nutrition' => null,
 ];

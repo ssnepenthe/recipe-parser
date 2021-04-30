@@ -37,4 +37,14 @@ return [
     'totalTime' => 'PT15M',
     'url' => 'https://www.bbcgoodfood.com/recipes/chicken-crushed-harissa-chickpeas',
     'yield' => '4',
+    'nutrition' => [
+        'calories' => '366 calories',
+        'fat' => '12 grams fat',
+        'fiber' => '7 grams fiber',
+        'protein' => '44 grams protein',
+        'sugar' => '6 grams sugar',
+        'saturatedFat' => '2 grams saturated fat',
+        'carbohydrate' => '16 grams carbohydrates',
+        'sodium' => '0.6 milligram of sodium',
+    ],
 ];

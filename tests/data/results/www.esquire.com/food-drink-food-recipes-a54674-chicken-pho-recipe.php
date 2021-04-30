@@ -58,4 +58,5 @@ return [
     'totalTime' => 'PT3M',
     'url' => 'https://www.esquire.com/food-drink/food/recipes/a54674/chicken-pho-recipe/',
     'yield' => '8',
+    'nutrition' => null,
 ];

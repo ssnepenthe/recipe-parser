@@ -39,4 +39,13 @@ return [
     'totalTime' => null,
     'url' => 'http://www.finecooking.com/recipe/ancho-marinated-pork-and-mango-skewers',
     'yield' => '4 (2 skewers per person).',
+    'nutrition' => [
+        'calories' => '250 kcal',
+        'fat' => '80 kcal',
+        'fiber' => '2 g',
+        'protein' => '25 g',
+        'saturatedFat' => '2 g',
+        'carbohydrate' => '20 g',
+        'sodium' => '120 mg',
+    ],
 ];

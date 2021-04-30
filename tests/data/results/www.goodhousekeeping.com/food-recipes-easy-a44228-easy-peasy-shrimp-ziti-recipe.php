@@ -39,4 +39,5 @@ return [
     'totalTime' => 'PT25M',
     'url' => 'https://www.goodhousekeeping.com/food-recipes/easy/a44228/easy-peasy-shrimp-ziti-recipe/',
     'yield' => '6',
+    'nutrition' => null,
 ];

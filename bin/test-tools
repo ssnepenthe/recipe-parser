@@ -22,5 +22,7 @@ $app->add(new RecipeScraperTests\Commands\ResultsCleanupCommand);
 $app->add(new RecipeScraperTests\Commands\ResultsDeleteCommand);
 $app->add(new RecipeScraperTests\Commands\ResultsStubAllCommand);
 $app->add(new RecipeScraperTests\Commands\ResultsStubCommand);
+$app->add(new RecipeScraperTests\Commands\ResultsUpdateCommand);
+$app->add(new RecipeScraperTests\Commands\ResultsUpdateAllCommand);
 
 $app->run();

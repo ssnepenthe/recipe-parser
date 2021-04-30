@@ -40,4 +40,5 @@ return [
     'totalTime' => 'PT20M',
     'url' => 'https://www.tablespoon.com/recipes/copycat-in-n-out-burger-double-cheeseburger/ea7f1d77-0fbf-448d-acc4-597d8f8fccec',
     'yield' => '2',
+    'nutrition' => null,
 ];

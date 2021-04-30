@@ -43,4 +43,5 @@ return [
     'totalTime' => null,
     'url' => 'https://www.cookingchanneltv.com/recipes/northern-style-ribs-2108846',
     'yield' => 'Serves 6 to 8',
+    'nutrition' => null,
 ];

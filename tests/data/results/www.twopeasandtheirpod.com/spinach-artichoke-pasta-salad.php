@@ -52,4 +52,5 @@ return [
     'totalTime' => 'PT20M',
     'url' => 'https://www.twopeasandtheirpod.com/spinach-artichoke-pasta-salad/',
     'yield' => 'Serves 10',
+    'nutrition' => null,
 ];

@@ -9,7 +9,7 @@ return [
         'Bread',
         'Quick & easy recipes',
         'Freezer-friendly recipes',
-        'Healthy fish recipes'
+        'Healthy fish recipes',
     ],
     'cookingMethod' => null,
     'cookTime' => null,
@@ -43,4 +43,14 @@ return [
     'url' => 'https://www.jamieoliver.com/recipes/fish-recipes/jumbo-fish-fingers/',
     'yield' => '10 portions',
     'nameSub' => 'Golden crispy breadcrumbs',
+    'nutrition' => [
+        'calories' => '325 calories',
+        'fat' => '18.6 g fat',
+        'fiber' => '1.6 g fibre',
+        'protein' => '29.1 g protein',
+        'sugar' => '0.6 g sugar',
+        'saturatedFat' => '3.8 g saturated fat',
+        'carbohydrate' => '9.5 g carbohydrate',
+        'sodium' => '0.5 g salt',
+    ],
 ];

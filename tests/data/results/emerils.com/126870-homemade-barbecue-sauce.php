@@ -35,4 +35,5 @@ return [
     'totalTime' => null,
     'url' => 'http://emerils.com/126870/homemade-barbecue-sauce',
     'yield' => 'Yield: About 3 cups sauce',
+    'nutrition' => null,
 ];

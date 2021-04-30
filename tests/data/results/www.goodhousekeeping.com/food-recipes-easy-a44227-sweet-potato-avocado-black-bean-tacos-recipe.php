@@ -40,4 +40,5 @@ return [
     'totalTime' => 'PT40M',
     'url' => 'https://www.goodhousekeeping.com/food-recipes/easy/a44227/sweet-potato-avocado-black-bean-tacos-recipe/',
     'yield' => '4 servings',
+    'nutrition' => null,
 ];

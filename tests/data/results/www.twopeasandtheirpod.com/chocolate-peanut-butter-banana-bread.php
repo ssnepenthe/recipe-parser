@@ -49,4 +49,5 @@ return [
     'totalTime' => 'PT1H10M',
     'url' => 'https://www.twopeasandtheirpod.com/chocolate-peanut-butter-banana-bread/',
     'yield' => '1 loaf',
+    'nutrition' => null,
 ];

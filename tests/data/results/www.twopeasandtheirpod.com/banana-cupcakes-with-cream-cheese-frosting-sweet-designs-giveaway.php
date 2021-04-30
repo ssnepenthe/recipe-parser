@@ -50,4 +50,5 @@ return [
     'totalTime' => null,
     'url' => 'https://www.twopeasandtheirpod.com/banana-cupcakes-with-cream-cheese-frosting-sweet-designs-giveaway/',
     'yield' => '12 cupcakes',
+    'nutrition' => null,
 ];

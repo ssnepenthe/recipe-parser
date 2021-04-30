@@ -45,4 +45,7 @@ return [
     'totalTime' => 'PT20M',
     'url' => 'https://www.womansday.com/food-recipes/food-drinks/recipes/a13423/black-bean-corn-spinach-enchiladas-recipe-wdy0315/',
     'yield' => '4',
+    'nutrition' => [
+        'calories' => '484 calories',
+    ],
 ];

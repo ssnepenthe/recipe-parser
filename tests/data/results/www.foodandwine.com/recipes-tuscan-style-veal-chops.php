@@ -29,4 +29,5 @@ return [
     'totalTime' => 'PT40M',
     'url' => 'http://www.foodandwine.com/recipes/tuscan-style-veal-chops',
     'yield' => 'Serves : 4',
+    'nutrition' => null,
 ];

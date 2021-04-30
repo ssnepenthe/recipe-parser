@@ -38,4 +38,14 @@ return [
     'totalTime' => 'PT1H',
     'url' => 'https://www.bbcgoodfood.com/recipes/chocolate-raspberry-birthday-layer-cake',
     'yield' => '12',
+    'nutrition' => [
+        'calories' => '549 calories',
+        'fat' => '36 grams fat',
+        'fiber' => '2 grams fiber',
+        'protein' => '6 grams protein',
+        'sugar' => '33 grams sugar',
+        'saturatedFat' => '12 grams saturated fat',
+        'carbohydrate' => '49 grams carbohydrates',
+        'sodium' => '0.6 milligram of sodium',
+    ],
 ];

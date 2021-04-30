@@ -1,13 +1,13 @@
 <?php
 
 return [
-    'author' => 'Jessica Walker',
-    'categories' => null,
+    'author' => 'By Jessica Walker',
+    'categories' => ['Entree'],
     'cookingMethod' => null,
     'cookTime' => null,
-    'cuisines' => null,
-    'description' => 'Make fajitas easier than ever with this oven shortcut that will save you time, but won\'t skimp on flavor.',
-    'image' => 'https://images-gmi-pmc.edge-generalmills.com/a2634f3d-fce8-4959-904b-e2b7f13f3b85.jpg',
+    'cuisines' => ['Mexican'],
+    'description' => 'No need for the scorching hot platters you see in restaurants-these easy chicken fajitas are made right in your oven! A virtually universal favorite, these baked chicken fajitas combine a blend of Mexican seasonings and the essential onions and bell peppers that help fill up your tortilla with flavor. Baking chicken fajitas in the oven not only makes your life easier, it also keeps your chicken juicy, develops the flavors of the seasonings and roasts the onions and peppers to melty tenderness.',
+    'image' => 'https://images-gmi-pmc.edge-generalmills.com/1dc23e1f-4843-494c-8537-3ab25ccad141.jpg',
     'ingredients' => [
         '1 large onion',
         '1 medium red bell pepper',
@@ -27,12 +27,16 @@ return [
     ],
     'name' => 'Easy Oven-Baked Chicken Fajitas',
     'notes' => [
-        'You can use any color of bell pepper you want in this dish...or even add more than one kind.',
+        'Bell peppers come in a rainbow of colors, and you can use whichever you like in this recipe. Keep in mind that red, orange, yellow and other colors are often sweeter than green bell peppers, which are less ripe.',
         'This also tastes great with a squeeze of lime juice over the baked chicken and veggies!',
+        'The word "fajita" is the diminutive form of the Spanish "faja," which means "strip" or "belt." So, "fajitas" literally means "little strips."',
+        'Skirt steak was the original meat used for fajitas, but the preparation pairs well with so many kinds of meat that you can use just about anything-and chicken is an enormously popular option.',
+        'Fajitas are almost infinitely customizable. Set out a spread of toppings and finishes like sour cream, salsa, guacamole, limes, herbs, sliced jalapeños and more to let each person make their perfect fajita combo.',
     ],
     'prepTime' => 'PT10M',
     'publisher' => null,
     'totalTime' => 'PT50M',
-    'url' => 'https://www.bettycrocker.com/recipes/easy-oven-baked-chicken-fajitas/dabcc253-f43e-4b17-b92d-6b6d466ba507',
+    'url' => 'http://www.oldelpaso.com/recipes/easy-oven-baked-chicken-fajitas/f875116e-5ad7-43a0-9320-3b880f9e9624',
     'yield' => '9',
+    'nutrition' => null
 ];

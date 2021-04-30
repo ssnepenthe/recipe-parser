@@ -64,4 +64,13 @@ return [
     'totalTime' => null,
     'url' => 'https://www.epicurious.com/recipes/food/views/glazed-cinnamon-cardamom-buns',
     'yield' => 'Makes 8',
+    'nutrition' => [
+        'calories' => '604',
+        'fat' => '20 g(31%)',
+        'fiber' => '4 g(15%)',
+        'protein' => '9 g(19%)',
+        'saturatedFat' => '12 g(60%)',
+        'carbohydrate' => '98 g(33%)',
+        'sodium' => '274 mg(11%)',
+    ],
 ];

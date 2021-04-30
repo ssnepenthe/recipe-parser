@@ -32,4 +32,5 @@ return [
     'totalTime' => 'PT9H25M',
     'url' => 'https://www.pillsbury.com/recipes/overnight-country-sausage-and-hash-brown-casserole/e6b3ef2a-3e5f-4db5-9684-c5b199f3482f',
     'yield' => '8',
+    'nutrition' => null,
 ];

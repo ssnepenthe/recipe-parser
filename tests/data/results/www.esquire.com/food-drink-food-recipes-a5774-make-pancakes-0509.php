@@ -39,4 +39,5 @@ return [
     'totalTime' => 'PT20M',
     'url' => 'https://www.esquire.com/food-drink/food/recipes/a5774/make-pancakes-0509/',
     'yield' => '4 servings',
+    'nutrition' => null,
 ];

@@ -55,4 +55,5 @@ return [
     'totalTime' => null,
     'url' => 'https://www.pauladeen.com/recipe/crab-asparagus-quiche-cupcakes/',
     'yield' => null,
+    'nutrition' => null,
 ];

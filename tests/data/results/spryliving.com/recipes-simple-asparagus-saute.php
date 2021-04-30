@@ -28,4 +28,5 @@ return [
     'totalTime' => null,
     'url' => 'http://spryliving.com/recipes/simple-asparagus-saute/',
     'yield' => 'Yield: 4 servings',
+    'nutrition' => null,
 ];

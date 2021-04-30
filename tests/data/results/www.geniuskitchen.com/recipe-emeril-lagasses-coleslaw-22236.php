@@ -41,4 +41,14 @@ return [
     'totalTime' => 'PT15M',
     'url' => 'http://www.geniuskitchen.com/recipe/emeril-lagasses-coleslaw-22236',
     'yield' => '10 serving(s)',
+    'nutrition' => [
+        'calories' => '51.4',
+        'fat' => '0.6',
+        'fiber' => '1.9',
+        'protein' => '1.4',
+        'sugar' => '8',
+        'saturatedFat' => '0.1',
+        'carbohydrate' => '11.1',
+        'sodium' => '325.4',
+    ],
 ];

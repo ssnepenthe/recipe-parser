@@ -40,4 +40,14 @@ return [
     'totalTime' => 'PT2H',
     'url' => 'http://www.eatingwell.com/recipe/250551/broccoli-ham-cheese-quiche/',
     'yield' => '6',
+    'nutrition' => [
+        'calories' => '297 calories;',
+        'fat' => '16',
+        'fiber' => '2',
+        'protein' => '21',
+        'sugar' => '1',
+        'saturatedFat' => '7',
+        'carbohydrate' => '17',
+        'sodium' => '622',
+    ],
 ];

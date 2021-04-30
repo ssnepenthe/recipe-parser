@@ -53,4 +53,14 @@ return [
     'totalTime' => 'PT1H',
     'url' => 'https://cookieandkate.com/2014/balsamic-butternut-kale-cranberry-panzanella/',
     'yield' => '4 salads',
+    'nutrition' => [
+        'calories' => '511',
+        'fat' => '35.3 g',
+        'fiber' => '5.8 g',
+        'protein' => '11.8 g',
+        'sugar' => '21.1 g',
+        'saturatedFat' => '7.6 g',
+        'carbohydrate' => '43.6 g',
+        'sodium' => '562.7 mg',
+    ],
 ];

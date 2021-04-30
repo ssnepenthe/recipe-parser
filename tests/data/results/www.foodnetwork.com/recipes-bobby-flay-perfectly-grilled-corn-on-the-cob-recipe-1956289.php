@@ -53,4 +53,5 @@ return [
     'totalTime' => 'PT1H35M',
     'url' => 'https://www.foodnetwork.com/recipes/bobby-flay/perfectly-grilled-corn-on-the-cob-recipe-1956289',
     'yield' => '4 to 6 servings',
+    'nutrition' => null,
 ];

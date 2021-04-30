@@ -31,4 +31,14 @@ return [
     'totalTime' => 'PT15M',
     'url' => 'http://www.cookinglight.com/recipes/quinoa-bowls-avocado-egg',
     'yield' => 'Serves 2 (serving size: about 2/3 cup quinoa mixture, 1 egg, and 1/4 avocado)',
+    'nutrition' => [
+        'calories' => '343',
+        'fat' => '16.4 g',
+        'fiber' => '9 g',
+        'protein' => '15 g',
+        'sugar' => '3 g',
+        'saturatedFat' => '3.1 g',
+        'carbohydrate' => '35 g',
+        'sodium' => '332 mg',
+    ],
 ];

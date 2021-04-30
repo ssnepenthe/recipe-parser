@@ -29,4 +29,12 @@ return [
     'totalTime' => 'PT35M',
     'url' => 'https://www.foodnetwork.com/recipes/food-network-kitchen/herb-stuffed-zucchini-recipe-2112379',
     'yield' => null,
+    'nutrition' => [
+        'calories' => '155 calorie',
+        'fat' => '13 grams',
+        'protein' => '3 grams',
+        'sugar' => '3 grams',
+        'saturatedFat' => '2 grams',
+        'sodium' => '313 milligrams',
+    ],
 ];

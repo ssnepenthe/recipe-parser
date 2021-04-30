@@ -40,4 +40,5 @@ return [
     'totalTime' => null,
     'url' => 'https://www.bonappetit.com/recipe/vadouvan-yogurt-dip',
     'yield' => 'Makes about 2 cups',
+    'nutrition' => null,
 ];

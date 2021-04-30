@@ -33,4 +33,5 @@ return [
     'totalTime' => null,
     'url' => 'http://spryliving.com/recipes/grilled-salmon-with-pesto/',
     'yield' => 'Yield: 4 servings',
+    'nutrition' => null,
 ];

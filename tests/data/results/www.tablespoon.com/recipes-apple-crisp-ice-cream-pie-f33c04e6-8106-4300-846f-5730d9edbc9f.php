@@ -40,4 +40,5 @@ return [
     'totalTime' => 'PT3H30M',
     'url' => 'https://www.tablespoon.com/recipes/apple-crisp-ice-cream-pie/f33c04e6-8106-4300-846f-5730d9edbc9f',
     'yield' => '12',
+    'nutrition' => null,
 ];

@@ -46,4 +46,7 @@ return [
     'totalTime' => null,
     'url' => 'https://www.bhg.com/recipe/pork/roasted-pork-with-apples/',
     'yield' => '4 servings',
+    'nutrition' => [
+        'calories' => '239 kcal',
+    ],
 ];

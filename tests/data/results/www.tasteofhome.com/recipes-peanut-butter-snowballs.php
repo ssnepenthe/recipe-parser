@@ -20,7 +20,7 @@ return [
     ],
     'name' => 'Peanut Butter Snowballs',
     'notes' => [
-        // Could probably separate out into different notes - would need more tests.
+        // Could probably separate out into different notes - would need more tests.git st
         'Editor\'s Note: Dark, white or milk chocolate confectionery coating is found in the baking section of most grocery stores. It is sometime labeled "almond bark" or "candy coating" and is often sold in bulk packages (1 to 1-1/2 pounds). It is the product used for dipping chocolate. A substitute for 6 ounces chocolate coating would be 1 cup (6 ounces) semisweet, dark or white chocolate chips and 1 tablespoon shortening melted together. Test Kitchen Tips Save on prep time by using candy coating disks. No chopping needed! Cookie scoops make quick work of shaping cookies into balls.',
     ],
     'prepTime' => 'PT15M',
@@ -28,4 +28,5 @@ return [
     'totalTime' => 'PT15M',
     'url' => 'https://www.tasteofhome.com/recipes/peanut-butter-snowballs',
     'yield' => '24 servings',
+    'nutrition' => null,
 ];

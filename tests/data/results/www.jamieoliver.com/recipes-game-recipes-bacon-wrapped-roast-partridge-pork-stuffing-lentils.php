@@ -59,4 +59,14 @@ return [
     'url' => 'https://www.jamieoliver.com/recipes/game-recipes/bacon-wrapped-roast-partridge-pork-stuffing-lentils/',
     'yield' => '4',
     'nameSub' => null,
+    'nutrition' => [
+        'calories' => '882 calories',
+        'fat' => '38.5 g fat',
+        'fiber' => '0 g fibre',
+        'protein' => '90.2 g protein',
+        'sugar' => '20.3 g sugar',
+        'saturatedFat' => '9 g saturated fat',
+        'carbohydrate' => '40 g carbohydrate',
+        'sodium' => '0 g salt',
+    ],
 ];

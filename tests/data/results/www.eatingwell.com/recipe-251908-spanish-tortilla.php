@@ -42,4 +42,14 @@ return [
     'totalTime' => 'PT40M',
     'url' => 'http://www.eatingwell.com/recipe/251908/spanish-tortilla/',
     'yield' => '6',
+    'nutrition' => [
+        'calories' => '173 calories;',
+        'fat' => '9',
+        'fiber' => '1',
+        'protein' => '11',
+        'sugar' => '2',
+        'saturatedFat' => '3',
+        'carbohydrate' => '10',
+        'sodium' => '427',
+    ],
 ];

@@ -46,4 +46,5 @@ return [
     'totalTime' => 'PT30M',
     'url' => 'https://www.countryliving.com/food-drinks/recipes/a39374/stuffed-chicken-4-ways-recipe/',
     'yield' => '4 servings',
+    'nutrition' => null,
 ];

@@ -38,4 +38,5 @@ return [
     'totalTime' => 'PT20M',
     'url' => 'https://www.delish.com/cooking/recipe-ideas/recipes/a48545/chimichurri-steak-sandwich-recipe/',
     'yield' => '4',
+    'nutrition' => null,
 ];

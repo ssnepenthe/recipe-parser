@@ -38,4 +38,5 @@ return [
     'totalTime' => null,
     'url' => 'https://www.farmflavor.com/recipe/type/cakes/strawberry-chiffon-pie/',
     'yield' => '6 servings',
+    'nutrition' => null,
 ];

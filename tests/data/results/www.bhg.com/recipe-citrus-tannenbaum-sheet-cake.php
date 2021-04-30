@@ -39,4 +39,7 @@ return [
     'totalTime' => null,
     'url' => 'https://www.bhg.com/recipe/citrus-tannenbaum-sheet-cake/',
     'yield' => '24 servings',
+    'nutrition' => [
+        'calories' => '296 kcal',
+    ],
 ];

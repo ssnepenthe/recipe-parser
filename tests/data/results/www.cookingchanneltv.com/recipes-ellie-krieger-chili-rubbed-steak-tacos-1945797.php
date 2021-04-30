@@ -63,4 +63,12 @@ return [
     'totalTime' => 'PT47M',
     'url' => 'https://www.cookingchanneltv.com/recipes/ellie-krieger/chili-rubbed-steak-tacos-1945797',
     'yield' => '12 Tacos (serving size is 2 tacos)',
+    'nutrition' => [
+        'calories' => '386 calorie',
+        'fat' => '16 grams',
+        'protein' => '21 grams',
+        'sugar' => '4 grams',
+        'saturatedFat' => '3.5 grams',
+        'sodium' => '258 milligrams',
+    ],
 ];

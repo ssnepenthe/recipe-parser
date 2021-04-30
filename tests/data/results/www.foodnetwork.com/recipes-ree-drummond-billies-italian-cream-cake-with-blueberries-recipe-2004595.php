@@ -56,4 +56,5 @@ return [
     'totalTime' => 'PT1H55M',
     'url' => 'https://www.foodnetwork.com/recipes/ree-drummond/billies-italian-cream-cake-with-blueberries-recipe-2004595',
     'yield' => '12 servings',
+    'nutrition' => null,
 ];

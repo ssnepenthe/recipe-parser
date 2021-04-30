@@ -74,4 +74,13 @@ return [
     'totalTime' => null,
     'url' => 'https://www.epicurious.com/recipes/food/views/vanilla-buttermilk-sheet-cake-with-raspberries-and-orange-cream-cheese-frosting',
     'yield' => 'Makes one (13x9") cake',
+    'nutrition' => [
+        'calories' => '5714',
+        'fat' => '298 g(458%)',
+        'fiber' => '12 g(49%)',
+        'protein' => '73 g(145%)',
+        'saturatedFat' => '176 g(878%)',
+        'carbohydrate' => '701 g(234%)',
+        'sodium' => '3079 mg(128%)',
+    ],
 ];

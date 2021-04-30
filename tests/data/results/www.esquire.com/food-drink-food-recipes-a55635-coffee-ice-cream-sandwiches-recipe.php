@@ -45,4 +45,5 @@ return [
     'totalTime' => null,
     'url' => 'https://www.delish.com/cooking/recipe-ideas/recipes/a53170/coffee-ice-cream-sandwiches-recipe/',
     'yield' => '3-4',
+    'nutrition' => null,
 ];

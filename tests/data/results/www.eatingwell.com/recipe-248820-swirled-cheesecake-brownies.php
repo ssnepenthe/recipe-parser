@@ -50,4 +50,14 @@ return [
     'totalTime' => 'PT2H',
     'url' => 'http://www.eatingwell.com/recipe/248820/swirled-cheesecake-brownies/',
     'yield' => '24',
+    'nutrition' => [
+        'calories' => '100 calories;',
+        'fat' => '4',
+        'fiber' => '1',
+        'protein' => '2',
+        'sugar' => '12',
+        'saturatedFat' => '1',
+        'carbohydrate' => '16',
+        'sodium' => '50',
+    ],
 ];

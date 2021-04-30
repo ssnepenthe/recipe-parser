@@ -41,4 +41,14 @@ return [
     'totalTime' => 'PT3H40M',
     'url' => 'https://www.bbcgoodfood.com/recipes/slow-cooked-pork-cider-sage-hotpot',
     'yield' => '6',
+    'nutrition' => [
+        'calories' => '644 calories',
+        'fat' => '35 grams fat',
+        'fiber' => '80 grams fiber',
+        'protein' => '35 grams protein',
+        'sugar' => '13 grams sugar',
+        'saturatedFat' => '14 grams saturated fat',
+        'carbohydrate' => '39 grams carbohydrates',
+        'sodium' => '0.6 milligram of sodium',
+    ],
 ];

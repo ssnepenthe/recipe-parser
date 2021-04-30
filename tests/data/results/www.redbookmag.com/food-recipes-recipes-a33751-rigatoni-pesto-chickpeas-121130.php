@@ -32,4 +32,7 @@ return [
     'totalTime' => 'PT20M',
     'url' => 'https://www.womansday.com/food-recipes/food-drinks/recipes/a9667/rigatoni-pesto-chickpeas-121130/',
     'yield' => '4',
+    'nutrition' => [
+        'calories' => '639 calories',
+    ],
 ];

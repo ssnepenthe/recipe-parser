@@ -45,4 +45,13 @@ return [
     'totalTime' => null,
     'url' => 'http://www.myrecipes.com/recipe/lemonade-layer-cake',
     'yield' => '16 servings (serving size: 1 slice)',
+    'nutrition' => [
+        'calories' => '322',
+        'fat' => '9.9 g',
+        'fiber' => '0.5 g',
+        'protein' => '5 g',
+        'saturatedFat' => '5.9 g',
+        'carbohydrate' => '54.1 g',
+        'sodium' => '293 mg',
+    ],
 ];

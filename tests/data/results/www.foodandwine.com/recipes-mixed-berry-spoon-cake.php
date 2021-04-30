@@ -36,4 +36,5 @@ return [
     'totalTime' => 'PT2H20M',
     'url' => 'http://www.foodandwine.com/recipes/mixed-berry-spoon-cake',
     'yield' => 'Serves : 8 to 10',
+    'nutrition' => null,
 ];

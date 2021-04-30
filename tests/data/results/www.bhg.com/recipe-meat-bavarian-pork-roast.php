@@ -46,4 +46,7 @@ return [
     'totalTime' => null,
     'url' => 'https://www.bhg.com/recipe/meat/bavarian-pork-roast/',
     'yield' => '6 servings',
+    'nutrition' => [
+        'calories' => '262 kcal',
+    ],
 ];

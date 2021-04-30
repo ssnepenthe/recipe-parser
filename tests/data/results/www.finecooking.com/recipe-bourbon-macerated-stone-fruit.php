@@ -29,4 +29,12 @@ return [
     'totalTime' => null,
     'url' => 'http://www.finecooking.com/recipe/bourbon-macerated-stone-fruit',
     'yield' => '4',
+    'nutrition' => [
+        'calories' => '160 kcal',
+        'fat' => '5 kcal',
+        'fiber' => '2 g',
+        'protein' => '1 g',
+        'sugar' => '33 g',
+        'carbohydrate' => '36 g',
+    ],
 ];

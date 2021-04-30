@@ -43,4 +43,11 @@ return [
     'totalTime' => 'PT45M',
     'url' => 'https://www.foodnetwork.com/recipes/food-network-kitchen/sausage-and-pepper-skewers-recipe-1972885',
     'yield' => '4 servings',
+    'nutrition' => [
+        'calories' => '396',
+        'fat' => '13 grams',
+        'protein' => '24 grams',
+        'saturatedFat' => '2 grams',
+        'sodium' => '356 milligrams',
+    ],
 ];

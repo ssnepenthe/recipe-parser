@@ -12,6 +12,16 @@ class SchemaOrgJsonLd implements ScraperInterface
 {
     use ExtractsDataFromCrawler;
 
+    public static $NUTRITION_FIELDS = [
+        'calories' => 'calories',
+        'fatContent' => 'fat',
+        'fiberContent' => 'fiber',
+        'proteinContent' => 'protein',
+        'sugarContent' => 'sugar',
+        'saturatedFatContent' => 'saturatedFat',
+        'carbohydrateContent' => 'carbohydrate',
+        'sodiumContent' => 'sodium'
+    ];
     /**
      * @var string[]
      */
@@ -32,6 +42,7 @@ class SchemaOrgJsonLd implements ScraperInterface
         'totalTime',
         'url',
         'yield',
+        'nutrition'
     ];
 
     /**
@@ -101,6 +112,26 @@ class SchemaOrgJsonLd implements ScraperInterface
         }
 
         return null;
+    }
+
+    /**
+     * @param  Crawler $crawler
+     * @param  array   $json
+     * @return array|null
+     */
+    protected function extractNutrition(Crawler $crawler, array $json)
+    {
+        $nutrition = [];
+
+        foreach (self::$NUTRITION_FIELDS as $originalField => $mapField) {
+            if (is_string($value = Arr::get($json, 'nutrition.' . $originalField))) {
+                $nutrition[$mapField] = $value;
+            } else {
+                $nutrition[$mapField] = '';
+            }
+        }
+
+        return $nutrition;
     }
 
     /**
@@ -193,21 +224,31 @@ class SchemaOrgJsonLd implements ScraperInterface
     protected function extractImage(Crawler $crawler, array $json)
     {
         if (is_string($image = Arr::get($json, 'image.url'))) {
+            $this->removeExtraHttpFromImageUrl($image);
             return $image;
         }
 
         $image = Arr::get($json, 'image');
 
-        // For www.justataste.com.
         if (is_array($image)) {
-            return array_shift($image);
+            // For www.justataste.com
+            return $this->removeExtraHttpFromImageUrl(array_shift($image));
         }
 
         if (is_string($image)) {
-            return $image;
+            return $this->removeExtraHttpFromImageUrl($image);
         }
 
         return null;
+    }
+
+    /**
+     * @param string $image
+     * @return string
+     */
+    private function removeExtraHttpFromImageUrl(string $image)
+    {
+        return str_replace('http:https', 'https', $image);
     }
 
     /**

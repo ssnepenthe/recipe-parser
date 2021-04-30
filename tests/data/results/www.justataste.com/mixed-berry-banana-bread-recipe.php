@@ -42,4 +42,14 @@ return [
     'totalTime' => 'PT1H5M',
     'url' => 'https://www.justataste.com/mixed-berry-banana-bread-recipe/',
     'yield' => '8 servings',
+    'nutrition' => [
+        'calories' => '317 kcal',
+        'fat' => '8 g',
+        'fiber' => '2 g',
+        'protein' => '5 g',
+        'sugar' => '26 g',
+        'saturatedFat' => '6 g',
+        'carbohydrate' => '55 g',
+        'sodium' => '307 mg',
+    ],
 ];

@@ -35,4 +35,14 @@ return [
     'totalTime' => 'PT1H10M',
     'url' => 'http://www.cookinglight.com/recipes/spinach-feta-quiche-sweet-potato-crust',
     'yield' => 'Serves 4 (serving size: 2 wedges)',
+    'nutrition' => [
+        'calories' => '203',
+        'fat' => '8.7 g',
+        'fiber' => '3 g',
+        'protein' => '13 g',
+        'sugar' => '6 g',
+        'saturatedFat' => '3.5 g',
+        'carbohydrate' => '18 g',
+        'sodium' => '393 mg',
+    ],
 ];

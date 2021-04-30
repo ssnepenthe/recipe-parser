@@ -62,4 +62,5 @@ return [
     'totalTime' => 'PT25M',
     'url' => 'https://www.twopeasandtheirpod.com/lemon-poppy-seed-waffles/',
     'yield' => 'Serves 6',
+    'nutrition' => null,
 ];

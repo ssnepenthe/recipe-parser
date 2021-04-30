@@ -35,4 +35,7 @@ return [
     'totalTime' => null,
     'url' => 'https://www.bhg.com/recipe/cauliflower-chorizo-tacos/',
     'yield' => '4 servings',
+    'nutrition' => [
+        'calories' => '641 kcal',
+    ],
 ];

@@ -29,7 +29,7 @@ return [
     ],
     'instructions' => [
         'Whisk together the champagne vinegar, white balsamic vinegar and a pinch of kosher salt. Stream the olive oil into the vinegar mixture, whisking; set aside.',
-        'Arrange the tomatoes and plums on a serving platter, alternating the tomatoes and plums. Tear the buratta over the top. Sprinkle the basil and mint over the salad and then drizzle with the vinaigrette. Finish with a pinch of sea salt and some pepper; serve.'
+        'Arrange the tomatoes and plums on a serving platter, alternating the tomatoes and plums. Tear the buratta over the top. Sprinkle the basil and mint over the salad and then drizzle with the vinaigrette. Finish with a pinch of sea salt and some pepper; serve.',
     ],
     'name' => 'Plum Caprese Salad',
     'notes' => null,
@@ -38,4 +38,5 @@ return [
     'totalTime' => 'PT20M',
     'url' => 'https://www.cookingchanneltv.com/recipes/tiffani-thiessen/plum-caprese-salad-2735607',
     'yield' => '6 servings',
+    'nutrition' => null,
 ];

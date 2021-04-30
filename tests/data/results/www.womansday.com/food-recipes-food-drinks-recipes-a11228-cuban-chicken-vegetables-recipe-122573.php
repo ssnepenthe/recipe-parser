@@ -39,4 +39,7 @@ return [
     'totalTime' => 'PT40M',
     'url' => 'https://www.womansday.com/food-recipes/food-drinks/recipes/a11228/cuban-chicken-vegetables-recipe-122573/',
     'yield' => '4',
+    'nutrition' => [
+        'calories' => '249 calories',
+    ],
 ];

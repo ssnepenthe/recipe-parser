@@ -56,4 +56,14 @@ return [
     'totalTime' => null,
     'url' => 'http://www.finecooking.com/recipe/greek-inspired-grilled-cornish-game-hens',
     'yield' => '4',
+    'nutrition' => [
+        'calories' => '790 kcal',
+        'fat' => '470 kcal',
+        'fiber' => '2 g',
+        'protein' => '48 g',
+        'sugar' => '12 g',
+        'saturatedFat' => '18 g',
+        'carbohydrate' => '18 g',
+        'sodium' => '480 mg',
+    ],
 ];

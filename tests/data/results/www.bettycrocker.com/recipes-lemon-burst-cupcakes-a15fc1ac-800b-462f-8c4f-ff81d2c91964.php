@@ -1,15 +1,15 @@
 <?php
 
 return [
-    'author' => null,
-    'categories' => null,
+    'author' => 'By Betty Crocker Kitchens',
+    'categories' => ['Dessert'],
     'cookingMethod' => null,
     'cookTime' => null,
     'cuisines' => null,
     'description' => 'Mmm! There\'s a surprise burst of creamy lemon filling inside these delicious cupcakes.',
     'image' => 'https://images-gmi-pmc.edge-generalmills.com/cc01f5ab-e07f-4695-b6ba-231c8acbe219.jpg',
     'ingredients' => [
-        '1 box Betty Crocker™ SuperMoist™ white cake mix',
+        '1 box Betty Crocker™ Super Moist™ white cake mix',
         'Water, vegetable oil and egg whites called for on cake mix box',
         '1 jar (10 to 12 oz) lemon curd',
         '1 container (12 oz) Betty Crocker™ Whipped fluffy white frosting',
@@ -24,7 +24,6 @@ return [
     ],
     'name' => 'Lemon Burst Cupcakes',
     'notes' => [
-        'If you have only one 12-cup muffin pan, cover and refrigerate the rest of the batter while baking the first batch. Then bake the rest of the batter in the cooled muffin pan, adding 1 or 2 minutes to the bake time.',
         'Planning a wedding reception? Make your own cupcakes!',
     ],
     'prepTime' => 'PT30M',
@@ -32,4 +31,5 @@ return [
     'totalTime' => 'PT1H15M',
     'url' => 'https://www.bettycrocker.com/recipes/lemon-burst-cupcakes/a15fc1ac-800b-462f-8c4f-ff81d2c91964',
     'yield' => '24',
+    'nutrition' => null
 ];

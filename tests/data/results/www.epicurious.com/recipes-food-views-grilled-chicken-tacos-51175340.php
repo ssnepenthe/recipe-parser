@@ -47,4 +47,13 @@ return [
     'totalTime' => null,
     'url' => 'https://www.epicurious.com/recipes/food/views/grilled-chicken-tacos-51175340',
     'yield' => 'Makes 4 servings',
+    'nutrition' => [
+        'calories' => '301',
+        'fat' => '23 g(35%)',
+        'fiber' => '1 g(3%)',
+        'protein' => '19 g(39%)',
+        'saturatedFat' => '5 g(27%)',
+        'carbohydrate' => '4 g(1%)',
+        'sodium' => '343 mg(14%)',
+    ],
 ];

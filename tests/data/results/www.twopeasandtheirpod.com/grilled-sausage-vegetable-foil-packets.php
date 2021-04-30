@@ -47,4 +47,5 @@ return [
     'totalTime' => 'PT30M',
     'url' => 'https://www.twopeasandtheirpod.com/grilled-sausage-vegetable-foil-packets/',
     'yield' => 'Serves 4',
+    'nutrition' => null,
 ];

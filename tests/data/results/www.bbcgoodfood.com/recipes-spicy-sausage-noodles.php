@@ -36,4 +36,14 @@ return [
     'totalTime' => 'PT15M',
     'url' => 'https://www.bbcgoodfood.com/recipes/spicy-sausage-noodles',
     'yield' => '2',
+    'nutrition' => [
+        'calories' => '367 calories',
+        'fat' => '20 grams fat',
+        'fiber' => '7 grams fiber',
+        'protein' => '10 grams protein',
+        'sugar' => '7 grams sugar',
+        'saturatedFat' => '6 grams saturated fat',
+        'carbohydrate' => '33 grams carbohydrates',
+        'sodium' => '1.1 milligram of sodium',
+    ],
 ];

@@ -42,4 +42,5 @@ return [
     'totalTime' => null,
     'url' => 'http://thepioneerwoman.com/cooking/blackberry-cheesecake-squares/',
     'yield' => 'Serves 16',
+    'nutrition' => null,
 ];

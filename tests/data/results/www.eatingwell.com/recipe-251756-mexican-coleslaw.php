@@ -38,4 +38,14 @@ return [
     'totalTime' => 'PT20M',
     'url' => 'http://www.eatingwell.com/recipe/251756/mexican-coleslaw/',
     'yield' => '8',
+    'nutrition' => [
+        'calories' => '53 calories;',
+        'fat' => '4',
+        'fiber' => '2',
+        'protein' => '1',
+        'sugar' => '3',
+        'saturatedFat' => '1',
+        'carbohydrate' => '5',
+        'sodium' => '97',
+    ],
 ];

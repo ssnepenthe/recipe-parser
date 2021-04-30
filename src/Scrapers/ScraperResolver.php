@@ -19,7 +19,7 @@ class ScraperResolver implements ScraperResolverInterface
     }
 
     /**
-     * @param  ScraperInterface $scraper
+     * @param ScraperInterface $scraper
      * @return void
      */
     public function add(ScraperInterface $scraper)
@@ -28,7 +28,7 @@ class ScraperResolver implements ScraperResolverInterface
     }
 
     /**
-     * @param  Crawler $crawler
+     * @param Crawler $crawler
      * @return ScraperInterface|false
      */
     public function resolve(Crawler $crawler)

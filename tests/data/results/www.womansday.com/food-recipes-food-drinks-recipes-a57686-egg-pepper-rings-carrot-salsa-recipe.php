@@ -49,4 +49,5 @@ return [
     'totalTime' => 'PT20M',
     'url' => 'https://www.womansday.com/food-recipes/food-drinks/recipes/a57686/egg-pepper-rings-carrot-salsa-recipe/',
     'yield' => '4 servings',
+    'nutrition' => null,
 ];

@@ -43,4 +43,14 @@ return [
     'totalTime' => 'PT55M',
     'url' => 'http://www.geniuskitchen.com/recipe/mexican-rice-117892',
     'yield' => '8-10 serving(s)',
+    'nutrition' => [
+        'calories' => '280.1',
+        'fat' => '9.9',
+        'fiber' => '1.9',
+        'protein' => '5.4',
+        'sugar' => '2.6',
+        'saturatedFat' => '0.9',
+        'carbohydrate' => '42.3',
+        'sodium' => '644.6',
+    ],
 ];

@@ -40,4 +40,5 @@ return [
     'totalTime' => 'PT20M',
     'url' => 'https://www.pauladeen.com/recipe/chicken-chili-stew/',
     'yield' => '6',
+    'nutrition' => null,
 ];

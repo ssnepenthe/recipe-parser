@@ -41,4 +41,5 @@ return [
     'totalTime' => 'PT2H45M',
     'url' => 'https://www.pillsbury.com/recipes/quick-red-velvet-cake/d6859094-96b1-4ef9-b1ac-c21990234b82',
     'yield' => '16',
+    'nutrition' => null,
 ];

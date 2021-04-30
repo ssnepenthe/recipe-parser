@@ -54,4 +54,5 @@ return [
     'totalTime' => null,
     'url' => 'https://www.bonappetit.com/recipe/plum-rosemary-crisp-with-oat-quinoa-topping',
     'yield' => '8 servings',
+    'nutrition' => null,
 ];

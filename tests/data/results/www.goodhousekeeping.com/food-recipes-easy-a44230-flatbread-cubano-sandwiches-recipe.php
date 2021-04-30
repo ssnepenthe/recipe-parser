@@ -36,4 +36,5 @@ return [
     'totalTime' => 'PT30M',
     'url' => 'https://www.goodhousekeeping.com/food-recipes/easy/a44230/flatbread-cubano-sandwiches-recipe/',
     'yield' => '4 servings',
+    'nutrition' => null,
 ];

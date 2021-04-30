@@ -45,4 +45,5 @@ return [
     'totalTime' => 'PT28M',
     'url' => 'https://cookieandkate.com/2015/healthy-carrot-muffins-recipe/',
     'yield' => '12 muffins',
+    'nutrition' => null,
 ];

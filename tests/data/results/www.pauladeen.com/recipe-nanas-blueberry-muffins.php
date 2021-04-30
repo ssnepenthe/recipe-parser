@@ -36,4 +36,5 @@ return [
     'totalTime' => 'PT15M',
     'url' => 'https://www.pauladeen.com/recipe/nanas-blueberry-muffins/',
     'yield' => '15',
+    'nutrition' => null,
 ];

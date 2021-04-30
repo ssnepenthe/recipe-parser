@@ -38,4 +38,13 @@ return [
     'totalTime' => 'PT45M',
     'url' => 'http://www.myrecipes.com/recipe/fruit-of-the-forest-muffins',
     'yield' => 'Serves 12 (serving size: 1 muffin)',
+    'nutrition' => [
+        'calories' => '172',
+        'fat' => '5.6 g',
+        'fiber' => '1.7 g',
+        'protein' => '2.8 g',
+        'saturatedFat' => '3 g',
+        'carbohydrate' => '28 g',
+        'sodium' => '206 mg',
+    ],
 ];

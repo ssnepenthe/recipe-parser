@@ -37,4 +37,5 @@ return [
     'totalTime' => 'PT35M',
     'url' => 'https://www.delish.com/cooking/recipe-ideas/recipes/a48411/balsamic-grilled-chicken-and-zucchini-recipe/',
     'yield' => '4',
+    'nutrition' => null,
 ];

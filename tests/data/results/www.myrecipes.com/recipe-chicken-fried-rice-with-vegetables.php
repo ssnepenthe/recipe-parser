@@ -34,4 +34,13 @@ return [
     'totalTime' => null,
     'url' => 'http://www.myrecipes.com/recipe/chicken-fried-rice-with-vegetables',
     'yield' => '4 Servings',
+    'nutrition' => [
+        'calories' => '516',
+        'fat' => '23 g',
+        'fiber' => '2 g',
+        'protein' => '31 g',
+        'saturatedFat' => '4 g',
+        'carbohydrate' => '49 g',
+        'sodium' => '593 mg',
+    ],
 ];

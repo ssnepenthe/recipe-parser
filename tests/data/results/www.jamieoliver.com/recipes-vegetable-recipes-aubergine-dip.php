@@ -40,4 +40,14 @@ return [
     'url' => 'https://www.jamieoliver.com/recipes/vegetable-recipes/aubergine-dip/',
     'yield' => '4 as a snack',
     'nameSub' => null,
+    'nutrition' => [
+        'calories' => '260 calories',
+        'fat' => '21 g fat',
+        'fiber' => '3 g fibre',
+        'protein' => '11 g protein',
+        'sugar' => '7 g sugar',
+        'saturatedFat' => '3 g saturated fat',
+        'carbohydrate' => '7 g carbohydrate',
+        'sodium' => '0.4 g salt',
+    ],
 ];

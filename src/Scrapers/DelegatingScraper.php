@@ -23,6 +23,7 @@ class DelegatingScraper implements ScraperInterface
         'totalTime' => null,
         'url' => null,
         'yield' => null,
+        'nutrition' => null
     ];
 
     /**
@@ -36,10 +37,10 @@ class DelegatingScraper implements ScraperInterface
     }
 
     /**
-     * @param  Crawler $crawler
+     * @param Crawler $crawler
      * @return array
      */
-    public function scrape(Crawler $crawler) : array
+    public function scrape(Crawler $crawler): array
     {
         if (false === $scraper = $this->resolver->resolve($crawler)) {
             return self::EMPTY_RECIPE;
@@ -49,10 +50,10 @@ class DelegatingScraper implements ScraperInterface
     }
 
     /**
-     * @param  Crawler $crawler
+     * @param Crawler $crawler
      * @return boolean
      */
-    public function supports(Crawler $crawler) : bool
+    public function supports(Crawler $crawler): bool
     {
         return false !== $this->resolver->resolve($crawler);
     }

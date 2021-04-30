@@ -54,4 +54,5 @@ return [
     'totalTime' => 'PT2H',
     'url' => 'https://www.countryliving.com/food-drinks/recipes/a43070/dukes-lemon-drop-sheet-cake-recipe/',
     'yield' => '12 servings',
+    'nutrition' => null,
 ];

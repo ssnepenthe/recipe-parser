@@ -55,4 +55,13 @@ return [
     'totalTime' => null,
     'url' => 'https://www.epicurious.com/recipes/food/views/green-bean-nicoise-salad',
     'yield' => 'Serves 8-12',
+    'nutrition' => [
+        'calories' => '152',
+        'fat' => '9 g(14%)',
+        'fiber' => '4 g(14%)',
+        'protein' => '5 g(10%)',
+        'saturatedFat' => '2 g(8%)',
+        'carbohydrate' => '14 g(5%)',
+        'sodium' => '413 mg(17%)',
+    ],
 ];

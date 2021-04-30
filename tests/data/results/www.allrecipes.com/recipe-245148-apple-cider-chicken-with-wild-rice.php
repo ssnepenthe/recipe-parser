@@ -46,4 +46,14 @@ return [
     'totalTime' => 'PT35M',
     'url' => 'https://www.allrecipes.com/recipe/245148/apple-cider-chicken-with-wild-rice/',
     'yield' => '4',
+    'nutrition' => [
+        'calories' => '362.3 calories',
+        'fat' => '5.9 g',
+        'fiber' => '4 g',
+        'protein' => '22.2 g',
+        'sugar' => '22.9 g',
+        'saturatedFat' => '0.8 g',
+        'carbohydrate' => '56.2 g',
+        'sodium' => '404.5 mg',
+    ],
 ];

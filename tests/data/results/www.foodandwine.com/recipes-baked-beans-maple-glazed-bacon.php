@@ -38,4 +38,5 @@ return [
     'totalTime' => 'PT4H',
     'url' => 'http://www.foodandwine.com/recipes/baked-beans-with-maple-glazed-bacon',
     'yield' => 'Serves : 8',
+    'nutrition' => null,
 ];

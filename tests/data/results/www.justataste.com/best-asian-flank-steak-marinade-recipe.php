@@ -33,4 +33,13 @@ return [
     'totalTime' => null,
     'url' => 'https://www.justataste.com/best-asian-flank-steak-marinade-recipe/',
     'yield' => '4 servings',
+    'nutrition' => [
+        'calories' => '389 kcal',
+        'fat' => '30 g',
+        'protein' => '13 g',
+        'sugar' => '15 g',
+        'saturatedFat' => '23 g',
+        'carbohydrate' => '18 g',
+        'sodium' => '566 mg',
+    ],
 ];

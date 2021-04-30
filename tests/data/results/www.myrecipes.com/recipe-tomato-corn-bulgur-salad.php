@@ -37,4 +37,13 @@ return [
     'totalTime' => 'PT30M',
     'url' => 'http://www.myrecipes.com/recipe/tomato-corn-bulgur-salad',
     'yield' => 'Serves 8 (serving size: 3/4 cup)',
+    'nutrition' => [
+        'calories' => '212',
+        'fat' => '13.4 g',
+        'fiber' => '4 g',
+        'protein' => '5 g',
+        'saturatedFat' => '1.9 g',
+        'carbohydrate' => '21 g',
+        'sodium' => '205 mg',
+    ],
 ];

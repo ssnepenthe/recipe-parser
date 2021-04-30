@@ -44,4 +44,14 @@ return [
     'totalTime' => 'PT50M',
     'url' => 'https://www.allrecipes.com/recipe/222585/baked-chicken-and-zucchini/',
     'yield' => '4',
+    'nutrition' => [
+        'calories' => '505.8 calories',
+        'fat' => '24.1 g',
+        'fiber' => '5.5 g',
+        'protein' => '39.8 g',
+        'sugar' => '9.6 g',
+        'saturatedFat' => '6.3 g',
+        'carbohydrate' => '34.1 g',
+        'sodium' => '768.4 mg',
+    ],
 ];

@@ -53,4 +53,7 @@ return [
     'totalTime' => 'PT1H45M',
     'url' => 'https://www.womansday.com/food-recipes/food-drinks/recipes/a13304/cannoli-cake-recipe-wdy0315/',
     'yield' => '12',
+    'nutrition' => [
+        'calories' => '735 calories',
+    ],
 ];

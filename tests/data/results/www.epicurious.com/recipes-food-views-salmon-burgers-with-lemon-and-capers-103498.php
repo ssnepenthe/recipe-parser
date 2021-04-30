@@ -56,4 +56,13 @@ return [
     'totalTime' => null,
     'url' => 'https://www.epicurious.com/recipes/food/views/salmon-burgers-with-lemon-and-capers-103498',
     'yield' => 'Makes 10 burgers',
+    'nutrition' => [
+        'calories' => '544',
+        'fat' => '23 g(36%)',
+        'fiber' => '3 g(13%)',
+        'protein' => '29 g(58%)',
+        'saturatedFat' => '5 g(24%)',
+        'carbohydrate' => '49 g(16%)',
+        'sodium' => '785 mg(33%)',
+    ],
 ];

@@ -43,4 +43,5 @@ return [
     'totalTime' => 'PT30M',
     'url' => 'https://www.cookingchanneltv.com/recipes/beer-braised-burgers-2121301',
     'yield' => '4 servings',
+    'nutrition' => null,
 ];

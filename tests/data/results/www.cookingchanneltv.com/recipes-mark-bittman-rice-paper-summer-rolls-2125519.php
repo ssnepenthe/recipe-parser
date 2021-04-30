@@ -39,4 +39,5 @@ return [
     'totalTime' => 'PT30M',
     'url' => 'https://www.cookingchanneltv.com/recipes/mark-bittman/rice-paper-summer-rolls-2125519',
     'yield' => '16 rolls',
+    'nutrition' => null,
 ];

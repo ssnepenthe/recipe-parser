@@ -40,4 +40,14 @@ return [
     'totalTime' => 'PT1H',
     'url' => 'https://www.feastingathome.com/simple-chicken-enchiladas/',
     'yield' => null, // @todo
+    'nutrition' => [
+        'calories' => '400',
+        'fat' => '16.3 g',
+        'fiber' => '6.4 g',
+        'protein' => '31.1 g',
+        'sugar' => '3.8 g',
+        'saturatedFat' => '8.1 g',
+        'carbohydrate' => '30.9 g',
+        'sodium' => '1023 mg',
+    ],
 ];

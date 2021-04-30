@@ -56,4 +56,5 @@ return [
     'totalTime' => 'PT1H20M',
     'url' => 'https://www.cookingchanneltv.com/recipes/peanut-butter-pie-fudge-2042389',
     'yield' => 'sixteen 4-inch squares',
+    'nutrition' => null,
 ];

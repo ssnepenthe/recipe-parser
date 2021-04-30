@@ -28,4 +28,5 @@ return [
     'totalTime' => 'PT15M',
     'url' => 'https://www.tablespoon.com/recipes/bacon-avocado-lettuce-tomato-snack-sandwich/780d10c2-77e0-441b-9f75-1bb23e2081e0',
     'yield' => '4',
+    'nutrition' => null,
 ];

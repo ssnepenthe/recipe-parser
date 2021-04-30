@@ -54,4 +54,5 @@ return [
     'totalTime' => null,
     'url' => 'https://www.farmflavor.com/recipe/blueberries-cream-waffles/',
     'yield' => '6 servings',
+    'nutrition' => null,
 ];

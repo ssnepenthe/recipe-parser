@@ -32,4 +32,12 @@ return [
     'totalTime' => 'PT7M',
     'url' => 'https://www.foodnetwork.com/recipes/food-network-kitchen/salad-with-blue-cheese-dressing-recipe-2109882',
     'yield' => '4 servings',
+    'nutrition' => [
+        'calories' => '79 calorie',
+        'fat' => '4 grams',
+        'protein' => '5 grams',
+        'sugar' => '3 grams',
+        'saturatedFat' => '3 grams',
+        'sodium' => '318 milligrams',
+    ],
 ];

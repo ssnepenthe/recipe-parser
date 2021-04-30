@@ -45,4 +45,5 @@ return [
     'totalTime' => 'PT2H45M',
     'url' => 'https://www.bettycrocker.com/recipes/pumpkin-truffle-pound-cake-with-browned-butter-icing/286ccef8-aea2-4c09-971e-b8d4721be0dc',
     'yield' => '16',
+    'nutrition' => null,
 ];

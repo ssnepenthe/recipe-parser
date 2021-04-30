@@ -32,7 +32,7 @@ return [
         '1 tablespoon smoked paprika',
         '2 teaspoons granulated garlic',
         '1 teaspoon salt',
-        'oil for searing'
+        'oil for searing',
     ],
     'instructions' => [
         'BLISTER TOMATOES In a large skillet, heat oil over medium-high heat. Add tomatoes (whole) and sear, stirring occasionally, until they burst and soften, about 7 minutes. Turn heat off. Chop if extra-large.',
@@ -41,7 +41,7 @@ return [
         'Stir in the butter and parmesan. Season generously with salt, pepper, and optional chili flakes. Taste, adjust salt. If bland, it probably needs more salt.',
         'Serve as a flavorful side or vegetarian main, garnishing with fresh parsley and lemon zest.',
         'Optional Seared Prawns:',
-        'If adding the prawns, mix spices and salt in a bowl. Coat shrimp with the spices. Heat 2-3 tablespoons oil in a skillet (you may need to do this in batches) over medium-high heat, sear each side 2-3 minutes or until cooked through. Top the risotto with the seared prawns.'
+        'If adding the prawns, mix spices and salt in a bowl. Coat shrimp with the spices. Heat 2-3 tablespoons oil in a skillet (you may need to do this in batches) over medium-high heat, sear each side 2-3 minutes or until cooked through. Top the risotto with the seared prawns.',
     ],
     'name' => 'Summer Tomato Risotto with Saffron',
     'notes' => null,
@@ -50,4 +50,14 @@ return [
     'totalTime' => 'PT1H',
     'url' => 'https://www.feastingathome.com/tomato-risotto/',
     'yield' => '4',
+    'nutrition' => [
+        'calories' => '435',
+        'fat' => '12.1 g',
+        'fiber' => '2.8 g',
+        'protein' => '9 g',
+        'sugar' => '6.9 g',
+        'saturatedFat' => '3.8 g',
+        'carbohydrate' => '73.1 g',
+        'sodium' => '943.1 mg',
+    ],
 ];

@@ -37,4 +37,5 @@ return [
     'totalTime' => null,
     'url' => 'http://spryliving.com/recipes/grilled-chipotle-pork-loin/',
     'yield' => 'Yield: 6 servings',
+    'nutrition' => null,
 ];

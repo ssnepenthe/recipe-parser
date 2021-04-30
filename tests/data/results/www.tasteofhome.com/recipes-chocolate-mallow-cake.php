@@ -52,4 +52,5 @@ return [
     'totalTime' => 'PT1H30M',
     'url' => 'https://www.tasteofhome.com/recipes/chocolate-mallow-cake',
     'yield' => '15 servings',
+    'nutrition' => null,
 ];

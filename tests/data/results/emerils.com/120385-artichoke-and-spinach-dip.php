@@ -42,4 +42,5 @@ return [
     'totalTime' => 'PT45M',
     'url' => 'http://emerils.com/120385/artichoke-and-spinach-dip',
     'yield' => 'Yield: About 8 servings',
+    'nutrition' => null,
 ];

@@ -33,4 +33,5 @@ return [
     'totalTime' => 'PT25M',
     'url' => 'http://www.foodandwine.com/recipes/baby-brioches-with-chicken-salad-and-bacon',
     'yield' => 'Serves : Makes 16 hors d\'oeuvres',
+    'nutrition' => null,
 ];

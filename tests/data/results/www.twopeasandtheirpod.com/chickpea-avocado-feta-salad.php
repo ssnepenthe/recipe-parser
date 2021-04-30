@@ -34,4 +34,5 @@ return [
     'totalTime' => 'PT5M',
     'url' => 'https://www.twopeasandtheirpod.com/chickpea-avocado-feta-salad/',
     'yield' => 'Serves 4',
+    'nutrition' => null,
 ];

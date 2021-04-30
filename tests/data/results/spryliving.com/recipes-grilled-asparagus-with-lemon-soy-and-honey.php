@@ -31,4 +31,5 @@ return [
     'totalTime' => null,
     'url' => 'http://spryliving.com/recipes/grilled-asparagus-with-lemon-soy-and-honey/',
     'yield' => 'Yield: 2 servings',
+    'nutrition' => null,
 ];

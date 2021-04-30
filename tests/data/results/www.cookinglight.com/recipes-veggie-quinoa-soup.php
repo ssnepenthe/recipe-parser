@@ -38,4 +38,14 @@ return [
     'totalTime' => 'PT55M',
     'url' => 'http://www.cookinglight.com/recipes/veggie-quinoa-soup',
     'yield' => 'Serves 8 (serving size: 1 1/3 cups)',
+    'nutrition' => [
+        'calories' => '144',
+        'fat' => '4.8 g',
+        'fiber' => '3 g',
+        'protein' => '7 g',
+        'sugar' => '3 g',
+        'saturatedFat' => '0.6 g',
+        'carbohydrate' => '19 g',
+        'sodium' => '353 mg',
+    ],
 ];

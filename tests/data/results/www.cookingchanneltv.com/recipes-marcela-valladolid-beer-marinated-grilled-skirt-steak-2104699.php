@@ -35,4 +35,5 @@ return [
     'totalTime' => 'PT1H20M',
     'url' => 'https://www.cookingchanneltv.com/recipes/marcela-valladolid/beer-marinated-grilled-skirt-steak-2104699',
     'yield' => '4 servings',
+    'nutrition' => null,
 ];

@@ -56,4 +56,14 @@ return [
     'totalTime' => 'PT30M',
     'url' => 'http://www.geniuskitchen.com/recipe/the-perfect-burger-92021',
     'yield' => '4 serving(s)',
+    'nutrition' => [
+        'calories' => '320.4',
+        'fat' => '22.3',
+        'fiber' => '1.1',
+        'protein' => '23.6',
+        'sugar' => '2.8',
+        'saturatedFat' => '7.9',
+        'carbohydrate' => '5.5',
+        'sodium' => '575.5',
+    ],
 ];

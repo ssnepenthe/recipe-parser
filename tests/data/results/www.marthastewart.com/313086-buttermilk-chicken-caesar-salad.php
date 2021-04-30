@@ -36,4 +36,5 @@ return [
     'totalTime' => 'PT40M',
     'url' => 'https://www.marthastewart.com/313086/buttermilk-chicken-caesar-salad',
     'yield' => '4 servings',
+    'nutrition' => null,
 ];

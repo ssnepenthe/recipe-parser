@@ -39,4 +39,7 @@ return [
     'totalTime' => 'PT28M',
     'url' => 'https://www.countryliving.com/food-drinks/recipes/a5748/herb-garlic-crusted-flank-steak-with-pan-roasted-grapes-recipe-clx0914/',
     'yield' => '4',
+    'nutrition' => [
+        'calories' => '446 calories',
+    ],
 ];

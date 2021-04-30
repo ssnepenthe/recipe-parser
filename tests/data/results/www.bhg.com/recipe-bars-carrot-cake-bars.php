@@ -50,4 +50,5 @@ return [
     'totalTime' => null,
     'url' => 'https://www.bhg.com/recipe/bars/carrot-cake-bars/',
     'yield' => '32 bars',
+    'nutrition' => null,
 ];

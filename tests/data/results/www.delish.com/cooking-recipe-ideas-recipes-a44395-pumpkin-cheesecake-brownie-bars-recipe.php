@@ -52,4 +52,5 @@ return [
     'totalTime' => 'PT4H30M',
     'url' => 'https://www.delish.com/cooking/recipe-ideas/recipes/a44395/pumpkin-cheesecake-brownie-bars-recipe/',
     'yield' => '24',
+    'nutrition' => null,
 ];

@@ -37,4 +37,5 @@ return [
     'totalTime' => 'PT30M',
     'url' => 'https://www.tablespoon.com/recipes/thai-chicken-salad-wraps/8fe99f87-2572-40ad-942d-1c68ddc5a270',
     'yield' => '4',
+    'nutrition' => null,
 ];

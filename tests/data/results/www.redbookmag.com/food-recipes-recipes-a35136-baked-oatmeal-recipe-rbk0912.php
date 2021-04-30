@@ -41,4 +41,5 @@ return [
     'totalTime' => 'PT20M',
     'url' => 'https://www.redbookmag.com/food-recipes/recipes/a35136/baked-oatmeal-recipe-rbk0912/',
     'yield' => '6',
+    'nutrition' => null,
 ];

@@ -33,4 +33,14 @@ return [
     'totalTime' => 'PT7H15M',
     'url' => 'http://www.geniuskitchen.com/recipe/green-chile-stuffed-chicken-breasts-29059',
     'yield' => '4 serving(s)',
+    'nutrition' => [
+        'calories' => '381.5',
+        'fat' => '21.9',
+        'fiber' => '1.1',
+        'protein' => '33.9',
+        'sugar' => '5.4',
+        'saturatedFat' => '10.3',
+        'carbohydrate' => '11.6',
+        'sodium' => '1136.2',
+    ],
 ];

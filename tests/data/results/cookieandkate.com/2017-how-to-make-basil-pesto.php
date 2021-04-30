@@ -37,4 +37,14 @@ return [
     'totalTime' => 'PT15M',
     'url' => 'https://cookieandkate.com/2017/how-to-make-basil-pesto/',
     'yield' => '1 cup',
+    'nutrition' => [
+        'calories' => '168',
+        'fat' => '17.8 g',
+        'fiber' => '0.3 g',
+        'protein' => '2 g',
+        'sugar' => '0.3 g',
+        'saturatedFat' => '2.3 g',
+        'carbohydrate' => '2.2 g',
+        'sodium' => '176.7 mg',
+    ],
 ];

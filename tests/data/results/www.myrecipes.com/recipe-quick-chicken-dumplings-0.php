@@ -33,4 +33,13 @@ return [
     'totalTime' => null,
     'url' => 'http://www.myrecipes.com/recipe/quick-chicken-dumplings-0',
     'yield' => '4 servings (serving size: about 1 1/2 cups)',
+    'nutrition' => [
+        'calories' => '366',
+        'fat' => '9.3 g',
+        'fiber' => '5.3 g',
+        'protein' => '29.8 g',
+        'saturatedFat' => '3.1 g',
+        'carbohydrate' => '40.3 g',
+        'sodium' => '652 mg',
+    ],
 ];

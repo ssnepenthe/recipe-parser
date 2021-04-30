@@ -44,4 +44,14 @@ return [
     'totalTime' => 'PT45M',
     'url' => 'http://www.geniuskitchen.com/recipe/chocolate-beer-cake-219846',
     'yield' => '8-10 serving(s)',
+    'nutrition' => [
+        'calories' => '712.3',
+        'fat' => '30.7',
+        'fiber' => '5.8',
+        'protein' => '9.8',
+        'sugar' => '48.8',
+        'saturatedFat' => '16.9',
+        'carbohydrate' => '87',
+        'sodium' => '367.9',
+    ],
 ];

@@ -37,4 +37,13 @@ return [
     'totalTime' => null,
     'url' => 'http://www.finecooking.com/recipe/grilled-asian-pork-tenderloin-with-peanut-sauce',
     'yield' => '4-5',
+    'nutrition' => [
+        'calories' => '300 kcal',
+        'fat' => '110 kcal',
+        'fiber' => '1 g',
+        'protein' => '39 g',
+        'saturatedFat' => '3.5 g',
+        'carbohydrate' => '7 g',
+        'sodium' => '490 mg',
+    ],
 ];

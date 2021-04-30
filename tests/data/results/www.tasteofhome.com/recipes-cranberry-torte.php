@@ -37,4 +37,5 @@ return [
     'totalTime' => 'PT30M',
     'url' => 'https://www.tasteofhome.com/recipes/cranberry-torte',
     'yield' => '12-14 servings',
+    'nutrition' => null,
 ];

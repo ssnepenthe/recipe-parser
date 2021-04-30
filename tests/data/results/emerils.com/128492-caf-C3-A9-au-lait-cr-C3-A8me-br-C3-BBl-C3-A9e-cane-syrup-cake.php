@@ -61,4 +61,5 @@ return [
     'totalTime' => 'PT45M',
     'url' => 'http://emerils.com/128492/caf%C3%A9-au-lait-cr%C3%A8me-br%C3%BBl%C3%A9e-cane-syrup-cake',
     'yield' => 'Yield: 9 servings',
+    'nutrition' => null,
 ];

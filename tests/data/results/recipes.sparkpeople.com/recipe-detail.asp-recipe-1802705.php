@@ -39,4 +39,12 @@ return [
     'totalTime' => null,
     'url' => 'https://recipes.sparkpeople.com/recipe-detail.asp?recipe=1802705',
     'yield' => '12',
+    'nutrition' => [
+        'calories' => '63.9',
+        'fat' => '0.0 g',
+        'fiber' => '0.0 g',
+        'protein' => '0.1 g',
+        'carbohydrate' => '17.3 g',
+        'sodium' => '0.9 mg',
+    ],
 ];

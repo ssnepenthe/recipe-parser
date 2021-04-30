@@ -47,4 +47,5 @@ return [
     'totalTime' => 'PT10M',
     'url' => 'https://www.esquire.com/food-drink/food/recipes/a45393/best-bloody-mary-recipe/',
     'yield' => '1 serving',
+    'nutrition' => null,
 ];

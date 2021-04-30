@@ -26,4 +26,5 @@ return [
     'totalTime' => 'PT10M',
     'url' => 'http://www.foodandwine.com/recipes/avocado-hollandaise',
     'yield' => 'Serves : 4',
+    'nutrition' => null,
 ];

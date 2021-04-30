@@ -36,4 +36,5 @@ return [
     'totalTime' => 'PT30M', // @todo See above.
     'url' => 'https://www.feastingathome.com/old-fashioned-cocktail/',
     'yield' => null, // @todo
+    'nutrition' => null,
 ];

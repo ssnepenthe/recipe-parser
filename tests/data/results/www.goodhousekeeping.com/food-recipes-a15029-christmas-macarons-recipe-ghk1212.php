@@ -39,4 +39,7 @@ return [
     'totalTime' => 'PT1H',
     'url' => 'https://www.goodhousekeeping.com/food-recipes/a15029/christmas-macarons-recipe-ghk1212/',
     'yield' => '1 dozen',
+    'nutrition' => [
+        'calories' => '60 calories',
+    ],
 ];

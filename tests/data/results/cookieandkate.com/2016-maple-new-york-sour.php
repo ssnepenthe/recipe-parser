@@ -31,4 +31,14 @@ return [
     'totalTime' => 'PT5M',
     'url' => 'https://cookieandkate.com/2016/maple-new-york-sour/',
     'yield' => '1 cocktail',
+    'nutrition' => [
+        'calories' => '264',
+        'fat' => '0.1 g',
+        'fiber' => '0.1 g',
+        'protein' => '0.2 g',
+        'sugar' => '12.9 g',
+        'saturatedFat' => '0 g',
+        'carbohydrate' => '17.7 g',
+        'sodium' => '2.7 mg',
+    ],
 ];

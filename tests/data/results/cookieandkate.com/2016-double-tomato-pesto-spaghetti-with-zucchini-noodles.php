@@ -50,4 +50,14 @@ return [
     'totalTime' => 'PT30M',
     'url' => 'https://cookieandkate.com/2016/double-tomato-pesto-spaghetti-with-zucchini-noodles/',
     'yield' => '4 servings',
+    'nutrition' => [
+        'calories' => '673',
+        'fat' => '25 g',
+        'fiber' => '17.5 g',
+        'protein' => '20.1 g',
+        'sugar' => '9.8 g',
+        'saturatedFat' => '2.8 g',
+        'carbohydrate' => '99.3 g',
+        'sodium' => '187.2 mg',
+    ],
 ];

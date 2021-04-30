@@ -32,4 +32,14 @@ return [
     'totalTime' => 'PT30M',
     'url' => 'http://www.cookinglight.com/recipes/chicken-butternut-gnocchi',
     'yield' => 'Serves 4 (serving size: about 1 1/4 cups)',
+    'nutrition' => [
+        'calories' => '526',
+        'fat' => '19.3 g',
+        'fiber' => '9 g',
+        'protein' => '43 g',
+        'sugar' => '4 g',
+        'saturatedFat' => '4.5 g',
+        'carbohydrate' => '44 g',
+        'sodium' => '748 mg',
+    ],
 ];

@@ -44,4 +44,14 @@ return [
     'totalTime' => 'PT50M',
     'url' => 'https://cookieandkate.com/2016/gluten-free-peach-crisp-recipe/',
     'yield' => '8 servings',
+    'nutrition' => [
+        'calories' => '412',
+        'fat' => '20.3 g',
+        'fiber' => '6.8 g',
+        'protein' => '11.1 g',
+        'sugar' => '29.6 g',
+        'saturatedFat' => '5.4 g',
+        'carbohydrate' => '50 g',
+        'sodium' => '135.8 mg',
+    ],
 ];

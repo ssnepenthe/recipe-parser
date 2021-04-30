@@ -36,4 +36,14 @@ return [
     'totalTime' => 'PT20M',
     'url' => 'http://www.cookinglight.com/recipes/smashed-double-cheeseburger-sliders',
     'yield' => 'Serves 4 (serving size: 2 sliders)',
+    'nutrition' => [
+        'calories' => '284',
+        'fat' => '13 g',
+        'fiber' => '1 g',
+        'protein' => '24 g',
+        'sugar' => '4 g',
+        'saturatedFat' => '4.5 g',
+        'carbohydrate' => '19 g',
+        'sodium' => '631 mg',
+    ],
 ];

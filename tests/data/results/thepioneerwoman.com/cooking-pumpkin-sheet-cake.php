@@ -45,4 +45,5 @@ return [
     'totalTime' => null,
     'url' => 'http://thepioneerwoman.com/cooking/pumpkin-sheet-cake/',
     'yield' => 'Serves 18',
+    'nutrition' => null,
 ];

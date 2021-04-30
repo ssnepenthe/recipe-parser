@@ -37,4 +37,14 @@ return [
     'totalTime' => null,
     'url' => 'http://www.myrecipes.com/recipe/fish-tacos-sweet-pickle-sauce',
     'yield' => 'Serves 4 (serving size: 2 tacos)',
+    'nutrition' => [
+        'calories' => '377',
+        'fat' => '12.4 g',
+        'fiber' => '7 g',
+        'protein' => '33 g',
+        'sugar' => '5 g',
+        'saturatedFat' => '1.6 g',
+        'carbohydrate' => '39 g',
+        'sodium' => '556 mg',
+    ],
 ];

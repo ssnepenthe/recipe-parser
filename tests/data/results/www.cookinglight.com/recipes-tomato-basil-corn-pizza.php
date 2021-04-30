@@ -35,4 +35,14 @@ return [
     'totalTime' => 'PT25M',
     'url' => 'http://www.cookinglight.com/recipes/tomato-basil-corn-pizza',
     'yield' => 'Serves 6 (serving size: 1 slice)',
+    'nutrition' => [
+        'calories' => '285',
+        'fat' => '7.3 g',
+        'fiber' => '6 g',
+        'protein' => '10 g',
+        'sugar' => '5 g',
+        'saturatedFat' => '3.1 g',
+        'carbohydrate' => '43 g',
+        'sodium' => '552 mg',
+    ],
 ];

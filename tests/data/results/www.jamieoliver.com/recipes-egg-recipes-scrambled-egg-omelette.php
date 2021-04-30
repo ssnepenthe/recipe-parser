@@ -40,4 +40,14 @@ return [
     'url' => 'https://www.jamieoliver.com/recipes/egg-recipes/scrambled-egg-omelette/',
     'yield' => '2',
     'nameSub' => 'Juicy tomatoes, fresh basil & creamy mozzarella',
+    'nutrition' => [
+        'calories' => '356 calories',
+        'fat' => '28.9 g fat',
+        'fiber' => '1.3 g fibre',
+        'protein' => '20.9 g protein',
+        'sugar' => '4 g sugar',
+        'saturatedFat' => '9 g saturated fat',
+        'carbohydrate' => '4.4 g carbohydrate',
+        'sodium' => '1.2 g salt',
+    ],
 ];

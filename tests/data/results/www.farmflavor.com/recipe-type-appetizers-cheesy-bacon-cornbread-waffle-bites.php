@@ -49,4 +49,5 @@ return [
     'totalTime' => null,
     'url' => 'https://www.farmflavor.com/recipe/type/appetizers/cheesy-bacon-cornbread-waffle-bites/',
     'yield' => '8 waffles, or 24 waffle bites',
+    'nutrition' => null,
 ];

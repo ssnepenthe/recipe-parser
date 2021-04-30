@@ -45,4 +45,7 @@ return [
     'totalTime' => 'PT30M',
     'url' => 'https://www.womansday.com/food-recipes/food-drinks/recipes/a12447/tex-mex-chicken-soup-recipe-wdy0214/',
     'yield' => '6',
+    'nutrition' => [
+        'calories' => '144 calories',
+    ],
 ];

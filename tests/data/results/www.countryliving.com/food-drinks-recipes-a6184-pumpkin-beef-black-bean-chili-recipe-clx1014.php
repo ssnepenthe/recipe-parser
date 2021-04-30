@@ -50,4 +50,7 @@ return [
     'totalTime' => 'PT45M',
     'url' => 'https://www.countryliving.com/food-drinks/recipes/a6184/pumpkin-beef-black-bean-chili-recipe-clx1014/',
     'yield' => '6',
+    'nutrition' => [
+        'calories' => '398 calories',
+    ],
 ];

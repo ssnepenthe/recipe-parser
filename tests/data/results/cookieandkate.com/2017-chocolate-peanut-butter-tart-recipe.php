@@ -54,4 +54,14 @@ return [
     'totalTime' => 'PT1H45M',
     'url' => 'https://cookieandkate.com/2017/chocolate-peanut-butter-tart-recipe/',
     'yield' => '8 to 10 slices',
+    'nutrition' => [
+        'calories' => '564',
+        'fat' => '44.1 g',
+        'fiber' => '4.7 g',
+        'protein' => '9.6 g',
+        'sugar' => '21.6 g',
+        'saturatedFat' => '27.8 g',
+        'carbohydrate' => '41.5 g',
+        'sodium' => '364.5 mg',
+    ],
 ];

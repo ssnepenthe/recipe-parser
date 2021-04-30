@@ -43,4 +43,14 @@ return [
     'url' => 'https://www.jamieoliver.com/recipes/eggs-recipes/simple-cheese-omelette/',
     'yield' => '1',
     'nameSub' => 'Simple, quick and nutritious',
+    'nutrition' => [
+        'calories' => '241 calories',
+        'fat' => '18.1 g fat',
+        'fiber' => '0.1 g fibre',
+        'protein' => '19.6 g protein',
+        'sugar' => '0.1 g sugar',
+        'saturatedFat' => '7.4 g saturated fat',
+        'carbohydrate' => '0 g carbohydrate',
+        'sodium' => '1.31 g salt',
+    ],
 ];

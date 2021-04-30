@@ -9,7 +9,7 @@ return [
         'Healthy snack ideas',
         'Healthy vegetarian recipes',
         'One-pan recipes',
-        'Prep & go recipes'
+        'Prep & go recipes',
     ],
     'cookingMethod' => null,
     'cookTime' => null,
@@ -46,4 +46,14 @@ return [
     'url' => 'https://www.jamieoliver.com/recipes/vegetable-recipes/simple-houmous/',
     'yield' => '10',
     'nameSub' => 'Tasty, healthy snack',
+    'nutrition' => [
+        'calories' => '64 calories',
+        'fat' => '3 g fat',
+        'fiber' => '1.9 g fibre',
+        'protein' => '3 g protein',
+        'sugar' => '0.2 g sugar',
+        'saturatedFat' => '0.5 g saturated fat',
+        'carbohydrate' => '6.3 g carbohydrate',
+        'sodium' => '0 g salt',
+    ],
 ];

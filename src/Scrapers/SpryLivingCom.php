@@ -91,6 +91,16 @@ class SpryLivingCom extends SchemaOrgMarkup
 
     /**
      * @param  Crawler $crawler
+     * @return array|null
+     */
+    protected function extractNutrition(Crawler $crawler)
+    {
+        // @todo Find a solution, miss-formatted DOM element property, itemprop=""calories""
+        return parent::extractNutrition($crawler);
+    }
+
+    /**
+     * @param  Crawler $crawler
      * @return string|null
      */
     protected function extractUrl(Crawler $crawler)

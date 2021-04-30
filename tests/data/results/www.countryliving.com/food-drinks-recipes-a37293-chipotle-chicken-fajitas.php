@@ -42,4 +42,5 @@ return [
     'totalTime' => 'PT30M',
     'url' => 'https://www.countryliving.com/food-drinks/recipes/a37293/chipotle-chicken-fajitas/',
     'yield' => '4',
+    'nutrition' => null,
 ];

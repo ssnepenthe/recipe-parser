@@ -33,4 +33,5 @@ return [
     'totalTime' => 'PT4H10M',
     'url' => 'https://www.pillsbury.com/recipes/slow-cooker-cheesy-chicken-enchilada-chili/389d56ac-2840-4327-a23b-1303539a7248',
     'yield' => '4',
+    'nutrition' => null,
 ];

@@ -11,4 +11,5 @@ return array (
   7 => 'https://www.jamieoliver.com/recipes/eggs-recipes/simple-cheese-omelette/',
   8 => 'https://www.jamieoliver.com/recipes/fish-recipes/jumbo-fish-fingers/',
   9 => 'https://www.jamieoliver.com/recipes/vegetable-recipes/simple-houmous/',
+  10 => 'https://www.jamieoliver.com/recipes/pasta-recipes/awesome-spinach-and-ricotta-cannelloni/',
 );

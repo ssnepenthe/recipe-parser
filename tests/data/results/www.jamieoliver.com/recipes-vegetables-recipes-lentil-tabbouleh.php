@@ -42,4 +42,14 @@ return [
     'url' => 'https://www.jamieoliver.com/recipes/vegetables-recipes/lentil-tabbouleh/',
     'yield' => '4',
     'nameSub' => null,
+    'nutrition' => [
+        'calories' => '288 calories',
+        'fat' => '14.5 g fat',
+        'fiber' => '5.1 g fibre',
+        'protein' => '13.7 g protein',
+        'sugar' => '3.4 g sugar',
+        'saturatedFat' => '2 g saturated fat',
+        'carbohydrate' => '27.7 g carbohydrate',
+        'sodium' => '0.5 g salt',
+    ],
 ];

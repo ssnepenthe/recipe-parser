@@ -56,4 +56,5 @@ return [
     'totalTime' => 'PT1H30M',
     'url' => 'https://www.womansday.com/food-recipes/food-drinks/recipes/a11126/peanut-butter-chocolate-cupcakes-recipe-122602/',
     'yield' => '24',
+    'nutrition' => null,
 ];

@@ -40,4 +40,5 @@ return [
     'totalTime' => 'PT1H45M',
     'url' => 'https://www.foodnetwork.com/recipes/food-network-kitchen/crunchy-lemonade-drumsticks-recipe-1973148',
     'yield' => '6',
+    'nutrition' => null,
 ];

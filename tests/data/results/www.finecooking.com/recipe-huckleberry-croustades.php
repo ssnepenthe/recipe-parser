@@ -48,4 +48,14 @@ return [
     'totalTime' => null,
     'url' => 'http://www.finecooking.com/recipe/huckleberry-croustades',
     'yield' => '6',
+    'nutrition' => [
+        'calories' => '480 kcal',
+        'fat' => '210 kcal',
+        'fiber' => '2 g',
+        'protein' => '6 g',
+        'sugar' => '32 g',
+        'saturatedFat' => '14 g',
+        'carbohydrate' => '64 g',
+        'sodium' => '220 mg',
+    ],
 ];

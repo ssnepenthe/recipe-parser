@@ -45,4 +45,14 @@ return [
     'totalTime' => 'PT40M',
     'url' => 'http://www.eatingwell.com/recipe/250222/sweet-potato-black-bean-chili/',
     'yield' => '4',
+    'nutrition' => [
+        'calories' => '323 calories;',
+        'fat' => '8',
+        'fiber' => '16',
+        'protein' => '13',
+        'sugar' => '13',
+        'saturatedFat' => '1',
+        'carbohydrate' => '55',
+        'sodium' => '573',
+    ],
 ];

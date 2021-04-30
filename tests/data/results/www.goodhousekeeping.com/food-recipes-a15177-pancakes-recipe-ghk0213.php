@@ -38,4 +38,7 @@ return [
     'totalTime' => 'PT30M',
     'url' => 'https://www.goodhousekeeping.com/food-recipes/a15177/pancakes-recipe-ghk0213/',
     'yield' => '3 servings',
+    'nutrition' => [
+        'calories' => '400 calories',
+    ],
 ];

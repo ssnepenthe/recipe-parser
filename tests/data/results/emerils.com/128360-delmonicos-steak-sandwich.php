@@ -41,4 +41,5 @@ return [
     'totalTime' => 'PT45M',
     'url' => 'http://emerils.com/128360/delmonicos-steak-sandwich',
     'yield' => 'Yield: 4 sandwiches',
+    'nutrition' => null,
 ];

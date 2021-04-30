@@ -40,4 +40,5 @@ return [
     'totalTime' => 'PT28M',
     'url' => 'https://www.justataste.com/teriyaki-chicken-stir-fry-noodles-recipe/',
     'yield' => '4 servings',
+    'nutrition' => null,
 ];

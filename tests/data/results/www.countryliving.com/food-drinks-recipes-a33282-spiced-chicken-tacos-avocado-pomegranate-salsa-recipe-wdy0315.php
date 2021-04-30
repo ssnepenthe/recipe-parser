@@ -45,4 +45,7 @@ return [
     'totalTime' => 'PT20M',
     'url' => 'https://www.womansday.com/food-recipes/food-drinks/recipes/a13250/spiced-chicken-tacos-avocado-pomegranate-salsa-recipe-wdy0315/',
     'yield' => '4',
+    'nutrition' => [
+        'calories' => '454 calories',
+    ],
 ];

@@ -30,4 +30,14 @@ return [
     'totalTime' => 'PT10M',
     'url' => 'https://www.bbcgoodfood.com/recipes/overnight-oats',
     'yield' => '1',
+    'nutrition' => [
+        'calories' => '348 calories',
+        'fat' => '11 grams fat',
+        'fiber' => '6 grams fiber',
+        'protein' => '13 grams protein',
+        'sugar' => '13 grams sugar',
+        'saturatedFat' => '2 grams saturated fat',
+        'carbohydrate' => '46 grams carbohydrates',
+        'sodium' => '0.66 milligram of sodium',
+    ],
 ];

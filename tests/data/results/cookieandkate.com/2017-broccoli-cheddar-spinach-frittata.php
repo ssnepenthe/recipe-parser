@@ -41,4 +41,14 @@ return [
     'totalTime' => 'PT40M',
     'url' => 'https://cookieandkate.com/2017/broccoli-cheddar-spinach-frittata/',
     'yield' => '6 to 8 servings',
+    'nutrition' => [
+        'calories' => '153',
+        'fat' => '10.9 g',
+        'fiber' => '1 g',
+        'protein' => '6.7 g',
+        'sugar' => '1.1 g',
+        'saturatedFat' => '4.6 g',
+        'carbohydrate' => '3.7 g',
+        'sodium' => '316 mg',
+    ],
 ];
